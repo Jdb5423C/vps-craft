@@ -1,0 +1,32 @@
+import{A as e,B as t,T as n,U as r,k as i,q as a,w as o}from"./vendor-vue-B-WzrGXX.js";import{t as s}from"./StandardArticleLayout-BFhFpHN2.js";var c={__name:`dom-extensions`,setup(c){return(c,l)=>{let u=r(`RouterLink`);return t(),n(s,{slug:`dom-extensions`,checkId:`dom_extensions`,indexNumber:12,titleZH:`浏览器插件(DOM Extensions)注入特征检测：哪些Chrome扩展会导致Claude/Stripe风控拦截？`,titleEN:`Chrome Extensions DOM Poisoning: How Translation & Shopping Plugins Leak Identity`,summaryZH:`剖析 Chrome 扩展 Content Script 注入机制。揭秘沉浸式翻译、沙拉查词、慢慢买等国内常见扩展向网页 DOM 树注入的特征节点（如 #immersive-translate-root）。风控系统如何通过 MutationObserver 静默枚举这些带有鲜明中国特色的扩展指纹。`,summaryEN:`Explore how Chrome extension content scripts inject identifiable DOM nodes (e.g. #saladict-container). Learn how anti-fraud probes leverage MutationObserver to detect China-specific browser extensions.`,penaltyZH:`-15 分`,penaltyEN:`-15 pts`,riskLevel:`high`,categoryZH:`客户端与指纹测绘`,categoryEN:`Fingerprinting & OS`,keywords:[`插件DOM泄露`,`Chrome扩展指纹`,`沉浸式翻译`,`沙拉查词`,`DOM投毒`,`Claude封号`]},{default:a(()=>[l[3]||=o(`h2`,null,`一、 隐秘的“内鬼”：你的日常浏览器插件正在出卖你`,-1),l[4]||=o(`p`,null,` 在很多国内开发者的日常工作流中，浏览器里通常安装了二三十个方便高效的生产力扩展： `,-1),l[5]||=o(`ul`,null,[o(`li`,null,[o(`strong`,null,`划词翻译类：`),i(` 沉浸式翻译、沙拉查词（Saladict）、有道词典 Chrome 扩展。`)]),o(`li`,null,[o(`strong`,null,`购物与返利类：`),i(` 慢慢买比价、惠惠购物助手、淘宝京东一键搜券。`)]),o(`li`,null,[o(`strong`,null,`网络与下载类：`),i(` 各种国内定制版代理面板、百度网盘助手、迅雷下载支持。`)])],-1),l[6]||=o(`p`,null,[i(` 这些扩展极大地提升了我们的工作效率。然而，许多人不知道的是：`),o(`strong`,null,`大多数浏览器扩展都拥有向所有打开的网页中注入自定义 HTML 节点与样式代码（Content Script 注入）的最高执行权限！`)],-1),l[7]||=o(`p`,null,[i(` 当你打开 `),o(`code`,null,`claude.ai`),i(` 或进行账户登录时，这些国内专属扩展便会忠实地在网页的 `),o(`code`,null,`<body>`),i(` 底部插入一个个带有鲜明中国开发者特征的特有标签和样式。 `)],-1),l[8]||=o(`p`,null,` 在 Anthropic 的反欺诈机器人眼中，这无异于在网页正中央挂起了一面面“我来自中国”的巨大横幅！ `,-1),l[9]||=o(`h2`,null,`二、 投毒原理与安全探针的静默检测算法`,-1),l[10]||=o(`p`,null,[i(` 网页上的 JavaScript 代码受浏览器同源策略（Same-Origin Policy）约束，正常情况下无法直接遍历 `),o(`code`,null,`chrome://extensions`),i(` 列表。但是，`),o(`strong`,null,`网页代码对自身的 DOM 树拥有 100% 的完全遍历权限`),i(`！ `)],-1),l[11]||=o(`p`,null,[i(` 现代安全反欺诈脚本通过 `),o(`code`,null,`document.querySelector`),i(` 或异步 `),o(`code`,null,`MutationObserver`),i(`，可以在页面渲染的任意瞬间捕获到这些被注入的标志性节点： `)],-1),l[12]||=o(`pre`,null,[o(`code`,null,`// 探测国内常见特征扩展注入的 DOM 标识
+function auditDOMExtensionSignatures() {
+  const HIGH_RISK_DOM_SELECTORS = [
+    { name: "沉浸式翻译 (Immersive Translate)", selector: "#immersive-translate-popup, [data-immersive-translate-walked], .immersive-translate-target" },
+    { name: "沙拉查词 (Saladict)", selector: "#saladict-dict-panel, .saladict-frame, #saladict-container" },
+    { name: "有道词典划词", selector: "#youdaoDictExt, #yddWrapper, .ydd-point" },
+    { name: "慢慢买 / 比价助手", selector: "#manmanbuy_div, .mmb-box, #bijia-bar" },
+    { name: "知乎助手 / 国内脚本", selector: "#zhihu-filter-panel, .zhihufilter" }
+  ];
+
+  const detected = [];
+  for (const item of HIGH_RISK_DOM_SELECTORS) {
+    if (document.querySelector(item.selector)) {
+      detected.push(item.name);
+    }
+  }
+
+  // 即使当前未触发划词，还可以通过 CSS 样式表中注入的 @font-face 或全局变量探测
+  const styleElements = Array.from(document.querySelectorAll("style, link[rel='stylesheet']"));
+  for (const style of styleElements) {
+    const content = style.innerHTML || "";
+    if (content.includes("immersive-translate") || content.includes("saladict")) {
+      if (!detected.includes("划词扩展样式注入")) detected.push("划词扩展样式注入");
+    }
+  }
+
+  return {
+    isPoisoned: detected.length > 0,
+    detectedPlugins: detected,
+    penalty: detected.length > 0 ? 15 : 0
+  };
+}`)],-1),l[13]||=o(`div`,{class:`tech-card`},[o(`h3`,null,`风控模型中的排他性概率判定`),o(`p`,null,[i(` 为什么仅仅检测到一个 `),o(`code`,null,`#saladict-container`),i(` 就会被扣除高达 `),o(`strong`,null,`15 分`),i(`？ `)]),o(`p`,null,[i(` 统计数据显示，沙拉查词（Saladict）或慢慢买比价助手的全球用户中，`),o(`strong`,null,`超过 99.8% 是中国大陆居民`),i(`。一个土生土长的美国硅谷工程师，电脑里几乎绝无可能安装带有“慢慢买”或“有道词典”签名的 Chrome 扩展。 `)]),o(`p`,null,` 因此，只要页面 DOM 树中出现了这些特征节点，风控系统会立刻将该会话归类为“中国用户翻墙访问”，无需理会你的代理 IP 到底是美国洛杉矶还是旧金山。 `)],-1),l[14]||=o(`h2`,null,`三、 常见伪装误区`,-1),l[15]||=o(`table`,null,[o(`thead`,null,[o(`tr`,null,[o(`th`,null,`常见做法`),o(`th`,null,`实际底层表现`),o(`th`,null,`能否避免被测出？`)])]),o(`tbody`,null,[o(`tr`,null,[o(`td`,null,`不点击划词图标，以为没触发就没事`),o(`td`,null,[i(`许多翻译扩展在页面一加载完毕（Document Idle），就自动向 `),o(`code`,null,`<html>`),i(` 注入全局全局容器节点和 CSS 样式表`)]),o(`td`,null,[o(`strong`,null,`依然被测出`),i(`，DOM 节点早已静默常驻。`)])]),o(`tr`,null,[o(`td`,null,`使用油猴（Tampermonkey）编写去广告脚本`),o(`td`,null,[i(`Tampermonkey 自身注入的沙盒框架、特定属性标记（如 `),o(`code`,null,`__tampermonkey_element__`),i(`）也会成为独立指纹`)]),o(`td`,null,[o(`strong`,null,`风险不降反增`),i(`。`)])]),o(`tr`,null,[o(`td`,null,`仅在浏览器里使用隐身模式（Incognito）`),o(`td`,null,`如果在扩展管理中勾选了“在无痕模式下允许”，该扩展依然会注入无痕页面`),o(`td`,null,[o(`strong`,null,`依然泄露`),i(`。`)])])])],-1),l[16]||=o(`h2`,null,`四、 终极整改与防护方案`,-1),l[17]||=o(`p`,null,[i(` 要杜绝国内扩展带来的 DOM 投毒，最好的策略是`),o(`strong`,null,`物理隔离`),i(`与`),o(`strong`,null,`权限最小化`),i(`： `)],-1),l[18]||=o(`h3`,null,`方案 1：建立“纯净隔离”的专属 Chrome 个人资料（Profile）`,-1),l[19]||=o(`ol`,null,[o(`li`,null,[i(`点击 Chrome 右上角头像，选择 `),o(`strong`,null,`“添加其他个人资料（Add Profile）”`),i(`。`)]),o(`li`,null,[i(`创建一个名为 `),o(`code`,null,`Claude-Work`),i(` 的独立纯净环境。`)]),o(`li`,null,[i(`在这个新资料下，`),o(`strong`,null,`严禁安装任何国内扩展`),i(`，只保留极简的原生环境，或仅安装海外常用的 1Password、Bitwarden 等基础密码管理器。`)]),o(`li`,null,`所有的日常冲浪、网购在主力个人资料中进行；所有与 Claude.ai 相关的操作全部在纯净个人资料中进行。`)],-1),l[20]||=o(`h3`,null,`方案 2：限制扩展的网站读取权限（仅在特定网站或点击时激活）`,-1),l[21]||=o(`p`,null,` 如果你必须在主力资料中使用这些扩展： `,-1),l[22]||=o(`ol`,null,[o(`li`,null,[i(`在扩展图标上右键，选择 `),o(`strong`,null,`“这可以读取和更改网站数据（Site Access）”`),i(`。`)]),o(`li`,null,[i(`将其由默认的“在所有网站上”修改为 `),o(`strong`,null,`“仅在您点击此扩展时”`),i(` 或 `),o(`strong`,null,`“在特定网站上”`),i(`。`)]),o(`li`,null,[i(`确保在 `),o(`code`,null,`*.claude.ai`),i(` 和 `),o(`code`,null,`*.anthropic.com`),i(` 域名下，这些扩展处于休眠非注入状态。`)])],-1),l[23]||=o(`h3`,null,`方案 3：对于 Claude Code CLI 终端用户`,-1),l[24]||=o(`p`,null,` 终端命令行运行的 Claude Code 完全不受浏览器 Chrome 扩展影响。因此，重度代码开发者使用 CLI 工具反而能彻底规避所有的 DOM 扩展指纹泄露！ `,-1),l[25]||=o(`h2`,null,`五、 总结`,-1),l[26]||=o(`p`,null,` DOM 注入指纹是现代反欺诈系统“就地取材”的典型范例。千里之堤毁于蚁穴，一个小小的查词或比价插件，就能让昂贵的网络代理前功尽弃。 `,-1),o(`p`,null,[l[1]||=i(` 请进入我们的 `,-1),e(u,{to:`/tools/ip?tab=claude`},{default:a(()=>[...l[0]||=[i(`Claude Code 专项检测工具`,-1)]]),_:1}),l[2]||=i(` 查看 DOM 扩展检测卡片。如果被扣分，请立即清理或限制相关插件的权限，还你的出海环境一个干干净净的纯净 DOM 树！ `,-1)])]),_:1})}}};export{c as default};
