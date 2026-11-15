@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VPS-Craft — 便宜国外 VPS 优惠与选购指南</title>
+    <link>https://vps-craft.com/</link>
+    <description>免费、客观的高性价比国外 VPS 优惠聚合：最新导购长文与超值年付套餐。RackNerd、搬瓦工、CloudCone、DMIT 促销一站比价。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Nov 2026 10:17:59 GMT</lastBuildDate>
+    <atom:link href="https://vps-craft.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>甲骨文免费服务器(Oracle Always Free)2026申请教程：永久免费ARM云服务器注册、信用卡ABC破局与保活攻略</title>
+      <link>https://vps-craft.com/compare/tutorial-oracle-always-free</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/tutorial-oracle-always-free</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新甲骨文服务器与甲骨文云（Oracle Cloud）永久免费 ARM 云服务器申请与运维完全手册：深度破解信用卡 ABC 错误与住宅 IP 环境准备，详解主区域选择与 2026 新账户 2C12G 配额实操。提供 OCI CLI 定时自动抢机脚本、双层防火墙全端口放行与防闲置回收方案，附免信用卡平价玩具小鸡兜底推荐及权威文献索引。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>甲骨文免费服务器还能白嫖吗？甲骨文云(Oracle Cloud)免费套餐深度评测：ARM额度减半、封号清退与多公有云横评</title>
+      <link>https://vps-craft.com/compare/oracle-cloud-free-tier-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/oracle-cloud-free-tier-2026</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新甲骨文服务器与甲骨文云（Oracle Cloud Always Free）免费套餐深度横评与权威政策解读：深度剖析官方新账户 ARM 算力减半至 2C12G 铁律、200GB 块存储与 10TB 流量计费细节。全面揭秘甲骨文免费服务器封号清退诱因、多账户关联雷区，横向对比 AWS、Google Cloud 与 Azure 免费层，附免信用卡平价玩具小鸡兜底推荐及权威文献索引。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【不限流量 02】便宜的无限流量 VPS 怎么选？2026 低预算不限量方案</title>
+      <link>https://vps-craft.com/compare/cheap-unlimited-bandwidth-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/cheap-unlimited-bandwidth-vps-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>月预算 5 美元以内、年付 30 美元以内的不限流量 VPS 怎么挑：不限量的四种口径、共享端口与超售的真实代价、Contabo / netcup / BuyVM / RackNerd / CloudCone 的 2026 年可核对价格、年付与月付的成本账、同预算下月限好线路机和不限裸机的取舍，以及端口、FUP、超售、退款四类隐藏限制。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【不限流量 03】美国无限流量 VPS 盘点 2026：大端口、抗 D、回国优化怎么选</title>
+      <link>https://vps-craft.com/compare/us-unlimited-bandwidth-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/us-unlimited-bandwidth-vps-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>美国机房为什么最容易做不限量？本文把洛杉矶、圣何塞、达拉斯、纽约、西雅图五个机房的定位讲清，拆解 1Gbps 与 10Gbps、共享端口与保证带宽的真实差别，对比 OVH、BuyVM、RackNerd、DMIT、CloudCone 的防护能力，并用 CN2 GIA、AS9929、CMIN2、AS4837 说明美国不限量机怎么配中转。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>AWS免费服务器申请与防扣费全攻略(2026实测)：EC2/S3/CloudFront 1TB白嫖、$0.01预算告警与IPv4避坑指南</title>
+      <link>https://vps-craft.com/compare/tutorial-aws-free-tier</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/tutorial-aws-free-tier</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>手把手教你零成本玩转 AWS 免费服务器！2026 深度解析 EC2 750小时月度池规则、S3 与 CloudFront 1TB 免费流量白嫖。详解 2024-2026 IPv4 独立收费新政破局、30秒配置 $0.01 成本预算防扣费金钟罩与纯 IPv6 免流架构，附误扣费官方中英文退款申诉模板与三大运营商延迟横评。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【2026 韩国 VPS 推荐与线路全景横评】三网低延迟与原生家宽住宅 IP 选型实战：含甲骨文首尔/春川免费小鸡保姆级攻略</title>
+      <link>https://vps-craft.com/compare/korea-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/korea-vps-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 韩国 VPS 深度选购指南与三网网络实测评测：全景解析韩国 KT、SK Broadband 与 LG Uplus 本土带宽互联成本，横评 VMISS 韩国优化线路与丽萨主机双 ISP 原生家宽住宅 IP。零成本推荐甲骨文首尔与春川 4核24G 免费小鸡申请秘籍，附国内四地延迟实测与避坑指南。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【2026 新加坡 VPS 推荐与深度横评】三网直连 CN2 GIA/9929/CMI 大带宽选型：含甲骨文新加坡免费云主机实测指南</title>
+      <link>https://vps-craft.com/compare/singapore-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/singapore-vps-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 新加坡 VPS 选型横评与网络线路全景深度拆解：全面涵盖搬瓦工 10Gbps 三网回程 CN2 GIA 顶级机房、丽萨主机双 ISP 住宅原生 IP 及 GreenCloud 高性价比大盘鸡。零元白嫖详测甲骨文新加坡 4核24G 免费算力与回国延迟表现，附海底光缆拓扑分析与真实测速数据溯源。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VMISS怎么样？2026晚高峰三网测速、IP纯净度与优缺点避坑实测</title>
+      <link>https://vps-craft.com/compare/is-vmiss-worth-it</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/is-vmiss-worth-it</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026最新VMISS深度评测！实测洛杉矶CN2 GIA、AS9929与CMIN2三网回程晚高峰延迟与丢包，横向对比香港BGP与日本IIJ流媒体解锁，深度剖析加元CAD结算汇率省钱技巧、循环8折优惠码与退款避坑。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【2026 美国 VPS 推荐与全景横评】美西洛杉矶/圣何塞/西雅图与美东机房：CN2 GIA、AS9929、AS4837 三网线路实测与选型避坑指南</title>
+      <link>https://vps-craft.com/compare/best-us-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/best-us-vps-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新美国 VPS 选购指南与全美主流机房深度横评：实测美西洛杉矶、圣何塞、西雅图及美东机房，深度解析电信双向 CN2 GIA、联通 AS9929 骨干及普通 AS4837 大带宽网络晚高峰表现。横评搬瓦工、DMIT、RackNerd、CloudCone 与丽萨主机，附真实测速 IP 与选型决策树。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【2026 免费 VPS 横向对比与避坑指南】四大公有云免费层全景评测：Oracle / AWS / GCP / Azure 额度、扣费陷阱与被回收自救</title>
+      <link>https://vps-craft.com/compare/free-vps-comparison-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/free-vps-comparison-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新全球四大免费云服务器深度横评与避坑指南：全维度对比 Oracle Cloud 永久免费 ARM 与 AMD 微型机、AWS 12 个月免费与 IPv4 新政、Google Cloud 限制及 Azure 试用策略。详解信用卡风控、闲置实例防回收保活技巧与学生零成本方案，附权威文献溯源表。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>搬瓦工 0 元 bug 价是真的吗？2026 低价套餐、限量版补货与优惠码真相核查</title>
+      <link>https://vps-craft.com/compare/bandwagon-0-yuan-bug-price-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/bandwagon-0-yuan-bug-price-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>网上流传的「搬瓦工 0 元 bug 价」并不存在。本文核查三类传言，列出 2026 年在售套餐的真实价格、限量版补货机制与 NODESEEK2026 优惠码的正确用法，并给出预算导向的选购路线与风险提示。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>SpartanHost 测评 2026：达拉斯 $4/月起 + 1Tbps 高防，为什么常年缺货？</title>
+      <link>https://vps-craft.com/compare/spartanhost-review-dallas-ddos-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/spartanhost-review-dallas-ddos-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>SpartanHost 2013 年成立，主打美国达拉斯与西雅图机房：达拉斯 E5/AMD Ryzen 系列 2 核 1GB / 15GB / 10Gbps@2TB 月付 $4 起，免费 1Tbps CosmicGuard 高防。本文拆解套餐价格阶梯、线路实测数据、优惠码与三类不适合的人。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>DediRock 测评 2026：$6.45/年 拿到 2.5GB 内存，这辆年付神车还能上吗？</title>
+      <link>https://vps-craft.com/compare/dedirock-6-dollar-year-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/dedirock-6-dollar-year-vps-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>DediRock 洛杉矶与纽约机房年付最低 $6.45（2.5GB 内存 / 15GB 盘 / 2TB 流量），比 RackNerd 还便宜三成。本文拆解 95 个套餐的价格阶梯、三网直连与原生 IP 的实测数据、存储节点差异，以及这类「地板价」年付机的四类真实风险。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>AkileCloud 测评 2026：香港 10Gbps 不限流量，$9.99/月到底值不值？</title>
+      <link>https://vps-craft.com/compare/akilecloud-hongkong-10gbps-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/akilecloud-hongkong-10gbps-review-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>AkileCloud 香港 HKLite 给到 10Gbps 端口 + 不限流量 + 内置 DNS 流媒体解锁，$9.99/月起；日本东京 IIJ 线三网延迟 84–117ms。本文拆解 11 个套餐的机房分布、CN2 GIA 与 BGP 的实际差别，以及「10Gbps」这个数字背后必须看清的三个前提。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>LowEndTalk 怎么用？2026 从注册到黑五捡漏的完整指南</title>
+      <link>https://vps-craft.com/compare/lowendtalk-guide-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/lowendtalk-guide-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>LowEndTalk（LET）是海外低价 VPS 圈最大的社区论坛，2026 年黑五在 11 月 27 日、网络星期一 11 月 30 日。本文讲清 LET 的版块结构、Offers 与 Requests 的差别、怎么用发帖记录判断商家靠不靠谱，以及五个新手最容易踩的坑。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 的 KYC 与隐私权衡：哪些商家要证件，哪些只要邮箱</title>
+      <link>https://vps-craft.com/compare/vps-kyc-privacy-tradeoff-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-kyc-privacy-tradeoff-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>按 KYC 强度把 VPS 商家分成四档：只要邮箱、风控触发式核验、可要求证件/自拍/地址证明、依法强制实名。拆解 KYC 的真实触发条件、隐私与合规的取舍、中国大陆用户的注意事项，以及在不违规前提下降低信息暴露的实操方法。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 离线下载实战：Aria2 + qBittorrent 把服务器当下载机</title>
+      <link>https://vps-craft.com/compare/vps-aria2-offline-download-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-aria2-offline-download-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>把 VPS 变成离线下载机的完整流程：Aria2 + AriaNg 与 qBittorrent-nox 两条路线的安装、systemd 常驻、RPC token 与反代 HTTPS 加固、磁盘与带宽规划、BT 做种的版权与商家 AUP 风险，以及和网盘、对象存储的配合方式。命令标注为测试环境示例。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>自己跑全节点还是租 VPS：以太坊/比特币节点托管配置与成本账</title>
+      <link>https://vps-craft.com/compare/vps-crypto-node-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-crypto-node-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>从零拆解以太坊执行层加共识层（geth + lighthouse）与比特币 Core 的磁盘、内存、带宽门槛，比较快照同步与全同步、云厂商免费额度与 VPS 的真实成本，并给出可复制的 Docker 配置、监控升级与断电恢复清单。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>海外 VPS 的 VAT 与发票报销：欧盟/英国/日本怎么开票</title>
+      <link>https://vps-craft.com/compare/vps-vat-invoice-reimburse-guide-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-vat-invoice-reimburse-guide-2026</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>海外 VPS 账单上的 VAT、英国 VAT、日本消费税、美国 sales tax 到底差在哪？从商家注册地、reverse charge、VAT ID 校验讲到可报销发票的字段清单、个人账户与公司账户的区别，以及地址填错、税号无效、发票日期与账单周期错位等常见坑。只做流程与资料整理，不构成税务或法律建议。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>IP 被列入黑名单（RBL）怎么办？如何查询与解除</title>
+      <link>https://vps-craft.com/compare/ip-blacklist-rbl-check</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/ip-blacklist-rbl-check</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description>IP 进了黑名单（RBL）会导致邮件发不出去、接口被拦。教你如何查询 IP 是否被列入黑名单、常见原因以及申诉解除的步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>IP纯净度检测网站有哪些？2026主流IP质量查询工具(Ping0/Scamalytics/IPinfo)评分标准对比</title>
+      <link>https://vps-craft.com/compare/ip-purity-check-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/ip-purity-check-guide</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description>手把手教你如何判断 VPS 的公网 IP 是否纯净、解析主流检测网站评分机制（Scamalytics / AbuseIPDB / IPinfo）、区分机房原生与双 ISP 原生家宽，并规避常见风控拦截。如需直接测试本机或任意 IP，请使用站内在线检测工具。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>IP 纯净度评分是怎么算的？6 大维度拆解（附评分标准）</title>
+      <link>https://vps-craft.com/compare/ip-purity-score-explained</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/ip-purity-score-explained</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description>我们给每个 IP 打出一个 0–100 的纯净度分。本文透明公开评分模型：网络归属、匿名网络、黑名单、ASN 信誉、分配特征、地理一致性六大维度怎么加权。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>什么是 ASN？如何通过 ASN 判断一个 IP 属于谁、是什么网络</title>
+      <link>https://vps-craft.com/compare/what-is-asn-ip-attribution</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/what-is-asn-ip-attribution</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description>ASN（自治域编号）是判断 IP 归属的关键。本文用大白话讲清 ASN 是什么、怎么查，以及如何通过 ASN 区分云厂商 / 运营商 / 住宅网络。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>跨境网络传输协议十年演进史 2026：从 Shadowsocks 到 VLESS Reality、Hysteria 2 与 TUIC v5 底层机理全拆解</title>
+      <link>https://vps-craft.com/compare/proxy-protocols-ss-vless-hysteria2-tuic</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/proxy-protocols-ss-vless-hysteria2-tuic</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新跨国网络数据传输与安全中继协议十年技术演进深度长文。深度剖析对称加密（Shadowsocks AEAD）熵值检测陷阱、TLS 拟态伪装（VMess+WS）、自签证书与 SNI 借用（VLESS Reality），以及基于 UDP/QUIC 的抗高丢包协议（Hysteria 2 Brutal 算法与 TUIC v5）核心技术机理。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【内核调优 01】sysctl 网络调优原理：BDP 公式推导、TCP 缓冲区计算与高并发拥塞优化实战</title>
+      <link>https://vps-craft.com/compare/sysctl-network-tuning-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/sysctl-network-tuning-vps-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新 Linux VPS 内核级 TCP 网络性能调优深度指南。从第一性原理推导带宽时延积（BDP）数学公式，解释为什么默认 4MB 缓冲区会导致 1Gbps 美西服务器断崖式降速至 200Mbps；提供 tcp_rmem / tcp_wmem 科学换算、队列溢出防护、TIME_WAIT 复用与 Google BBR 拥塞控制全套生产级配置模板。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>2026 决策指南：本地模型 vs 云 API 成本对比——你的 VPS 跑 Ollama 何时才划算</title>
+      <link>https://vps-craft.com/compare/local-llm-vs-cloud-api-cost-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/local-llm-vs-cloud-api-cost-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>用真实 TCO（硬件摊销、电费、运维）与多档 token 用量，实测测算自托管 Ollama/vLLM 与 DeepSeek/OpenAI 云 API 的盈亏平衡点，并给出按用量做决策的清单。读完你能判断自己的 VPS 是否该自建推理。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 自托管 AI 实战：Open WebUI、Ollama、资源预算与运维</title>
+      <link>https://vps-craft.com/compare/self-host-openwebui-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/self-host-openwebui-vps-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 自托管 AI 实战：Open WebUI、Ollama、资源预算与运维，含可复现检查命令、配置示例、选型对照及备份恢复步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 私有知识库实战：RAG 选型、Dify、检索评估与权限隔离</title>
+      <link>https://vps-craft.com/compare/vps-rag-knowledge-base-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-rag-knowledge-base-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 私有知识库实战：RAG 选型、Dify、检索评估与权限隔离，含可复现检查命令、配置示例、选型对照及备份恢复步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【PaaS自托管 02】2026 年用 Coolify 把 5 美元 VPS 变成自己的 Railway：部署避坑指南</title>
+      <link>https://vps-craft.com/compare/self-host-coolify-paas-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/self-host-coolify-paas-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>手把手演示在低价 VPS 上一条命令装好 Coolify，托管多个应用和 Postgres/MySQL/Redis 数据库，搞定居自动部署与自动 SSL。顺手把空闲 500-700MB 的内存占用和版本升级的破坏性变更讲清楚，让你用一台机器替掉每月上百刀的托管 PaaS。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>社媒矩阵多账号管理 2026：自托管 Postiz/Mixpost + 浏览器隔离防封指南</title>
+      <link>https://vps-craft.com/compare/social-media-matrix-multi-account-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/social-media-matrix-multi-account-vps-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>对比自托管社媒矩阵工具 Postiz、Mixpost 与云方案的优劣，讲解如何用独立 VPS/浏览器环境隔离 Cookie 与 IP 防封，并给出最低成本部署清单。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>2026 独立站接入 Stripe：服务器地区与公司主体合规全攻略</title>
+      <link>https://vps-craft.com/compare/stripe-vps-compliance-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/stripe-vps-compliance-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>讲清 Stripe 对海外主体（香港/美国 LLC/新加坡）与服务器 IP 地区一致性的要求，含 Webhook HTTPS、API v2025+ 与 Radar 风控评分避坑。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【跨境支付风控避坑 2026】买 VPS 信用卡被拒终极指南：3DS 2.0 握手机理、BIN 码黑名单、AVS 账单对齐与外币卡过卡实操</title>
+      <link>https://vps-craft.com/compare/vps-payment-decline-3ds-foreign-card-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-payment-decline-3ds-foreign-card-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 国内卡或虚拟卡买海外 VPS 频繁被拒？深度剖析收单网关反欺诈漏斗、3DS 2.0 静默断链、AVS 邮编校验缺失与 BIN 码高风险阻断，提供拒付代码全查表、主流厂商过卡策略与安全隔离指南。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【VPS 商家风险防范 2026】厂商跑路预警与信用体检指南：用 LowEndTalk 社区信号提前 90 天避雷与紧急迁出实操</title>
+      <link>https://vps-craft.com/compare/vps-provider-bankruptcy-warning-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-provider-bankruptcy-warning-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>买便宜年付 VPS 怕跑路血本无归？基于十年 LowEndTalk Deadpool 案例与破产模型，系统梳理跑路前 90 天四阶段恶化漏斗、BGP ASN 拔线先兆、工单积压体征与数据无损紧急迁出 SOP 清单。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【维权退款 01】退款争议话术实战 2026：PayPal / 信用卡 / 支付宝各渠道模板</title>
+      <link>https://vps-craft.com/compare/vps-refund-dispute-playbook-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-refund-dispute-playbook-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 退款被拒怎么办？本文汇总 PayPal 争议、信用卡 chargeback、支付宝跨境争议三条路径的取证清单与话术模板，照抄即可拿回年付款。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>账号被封申诉指南 2026：风控误杀与滥用封禁的邮件模板</title>
+      <link>https://vps-craft.com/compare/vps-account-ban-appeal-templates-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-account-ban-appeal-templates-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 账号被封别慌：先分清风控误杀与滥用封禁，再用&quot;认错+证据+整改&quot;的邮件结构提申诉成功率。附 RackNerd、Cloudcone、搬瓦工差异与可直接抄的模板。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>AbuseIPDB 是什么？2026 IP 滥用信誉评分机理、Fail2ban 自动联动与恶意攻击防御实战</title>
+      <link>https://vps-craft.com/compare/abuseipdb-ip-reputation</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/abuseipdb-ip-reputation</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新 AbuseIPDB 全景解析与运维实战指南。深入拆解 Abuse Confidence Score 评分衰减算法、恶意 IP 判定分类与全球威胁情报网络；手把手教你利用 Fail2ban + AbuseIPDB API v2 实现恶意爆破 IP 自动举报与全网黑名单动态拦截，附误封申请申诉 Delist SOP。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>2026 开源 TTS 语音克隆自托管指南：XTTS v2 / OpenVoice / F5-TTS / Qwen3-TTS 部署与成本</title>
+      <link>https://vps-craft.com/compare/self-host-tts-voice-clone-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/self-host-tts-voice-clone-vps-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>开源语音克隆在 2025 到 2026 年第一次追上商业 API。本文对比 XTTS v2、OpenVoice v2、F5-TTS、Qwen3-TTS 与 CosyVoice 的许可证、多语言、显存需求，用厂商官网标价推算每百万字符成本，并给出 VPS 上的 FastAPI 与 Docker 部署步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>AlphaVPS 值得买吗？保加利亚老牌 KVM 主机 2026 套餐、线路与避坑全解析</title>
+      <link>https://vps-craft.com/compare/is-alphavps-worth-it</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/is-alphavps-worth-it</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description>保加利亚厂商 AlphaVPS 值不值得买：自有 AS203380 网络、7 个欧美机房、€2.54/月起与 €1.67/月存储盘、14 天退款、卡/PayPal/加密币付款，以及欧洲延迟、回国体验、KYC 砍单与流媒体解锁的真实边界，逐项拆开并给出适合与不适合的人群。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>CloudCone怎么退款？2026最新销毁实例(Destroy)秒退余额与PayPal/支付宝原路提现教程</title>
+      <link>https://vps-craft.com/compare/cloudcone-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/cloudcone-review-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>CloudCone 是不是值得买？从 SSD-Cached 存储、按小时计费、年付促销、退款政策和线路实测，帮你判断它适合谁。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS回国线路怎么看？一文搞懂电信CN2 GIA/GT、联通9929/4837与移动CMIN2区别(附AS号速查表)</title>
+      <link>https://vps-craft.com/compare/what-is-cn2-gia</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/what-is-cn2-gia</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>CN2 GIA（AS4809）到底是什么、和普通 163 骨干/CN2 GT/联通 AS4837 差在哪、为什么晚高峰最稳、谁需要谁不需要、怎么验证，一篇讲清。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 延迟对照表：美国/香港/日本/新加坡/欧洲 各地区正常延迟是多少（2026）</title>
+      <link>https://vps-craft.com/compare/vps-latency-by-region</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-latency-by-region</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>从中国大陆到各大区在常规线路与高端线路（CN2 GIA/AS9929）下的典型往返延迟范围，什么是正常、晚高峰影响、路由如何改变延迟，附对照表与测速方法。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【GPU VPS 01】带 GPU 的 VPS 怎么租最划算？H100 / A100 / L4 价格横评（2026）</title>
+      <link>https://vps-craft.com/compare/gpu-vps-pricing-compare-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/gpu-vps-pricing-compare-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 年带 GPU 的 VPS 怎么租最省钱？我们横评 H100、A100、L4 各厂商按小时/按卡租用价，算清自建与租用的账，包含 LLM 显存估算表、10分钟 Ollama 实操与 Vultr / Contabo 的性价比建议。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【VPS 网络极客与负载均衡 02】从 ASN 到 BGP：你的 VPS 流量到底走了哪条线？</title>
+      <link>https://vps-craft.com/compare/vps-bgp-asn-routing-basics</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-bgp-asn-routing-basics</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>同在美国的 VPS 延迟差一倍？从 ASN 到 BGP，讲清 CN2/4837/CMI 线路本质，并教你怎么用 bgp.he.net、bgp.tools 查自己 IP 的 AS 路径。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【VPS性价比与隐藏成本 04】各大厂商退款政策横向对比：RackNerd / CloudCone / Bandwagon / Vultr / DMIT</title>
+      <link>https://vps-craft.com/compare/vps-refund-policy-compare-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-refund-policy-compare-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>买 VPS 最怕年付充完发现买错退不回。本文横向对比五家 2026 退款政策，讲清退款窗口、年付能否退、PayPal 争议风险与避坑清单。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 神车选购、补货核验与风险控制实战指南</title>
+      <link>https://vps-craft.com/compare/what-is-vps-shenche</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/what-is-vps-shenche</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 神车选购、补货核验与风险控制实战指南，含可复现检查命令、配置示例、选型对照及备份恢复步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>丽萨主机(LisaHost)评测：真双ISP美国家宽原生IP？实测Claude防封与9折优惠码</title>
+      <link>https://vps-craft.com/compare/lisahost-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/lisahost-review-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026丽萨主机(LisaHost)深度测评！实测洛杉矶4837/9929与新加坡ISP原生住宅IP在Ping0和Scamalytics的纯净度评分，验证Claude防封与TikTok解锁效果，汇总最新全场9折常驻优惠码与48小时退款条件。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【VPS 硬件选型指南 (存储 篇) 02】到手如何验货：fio 实测与识别「假 NVMe」（方法论篇）</title>
+      <link>https://vps-craft.com/compare/nvme-vs-sata-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/nvme-vs-sata-vps-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>到手如何亲手验货：本篇只讲拿到 VPS 后怎么用 fio 自测磁盘、读懂 IOPS / BW / 延迟三行，并用 ioping 与队列深度技巧识别「假 NVMe」、RAID10 SATA、超售限速与网络块存储。介质原理与厂商盘点请见同系列其他篇。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【Virtono 深度解析 01】Virtono 真实评测 2026：欧洲机房清单、KVM 套餐价格与中国大陆访问实测</title>
+      <link>https://vps-craft.com/compare/virtono-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/virtono-review-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 年 Virtono 真实评测：罗马尼亚/德国/荷兰/法国等欧洲机房完整清单与测试 IP、KVM 套餐美元价格表、到中国大陆三网延迟与路由实测，并附磁盘/带宽基准命令与对比速览。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【VPS 进阶玩法精选 010】VPS 从零建站全流程：买域名→DNS→SSH→LNMP→HTTPS，新手一步步上线可访问</title>
+      <link>https://vps-craft.com/compare/vps-deploy-first-website-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-deploy-first-website-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>面向纯新手的 VPS 建站完整闭环教程：从买域名、DNS 解析、SSH 登录，到 apt 装 Nginx/MySQL/PHP、用 ufw 开防火墙、certbot 配置 HTTPS，每一步都给可复制命令，并附 RackNerd / Cloudcone / Vultr / 搬瓦工 2026 真实套餐对比。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 备份恢复实战：3-2-1、rsync、Borg 与恢复演练</title>
+      <link>https://vps-craft.com/compare/vps-3-2-1-backup-guide-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-3-2-1-backup-guide-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 备份恢复实战：3-2-1、rsync、Borg 与恢复演练，含可复现检查命令、配置示例、选型对照及备份恢复步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【VPS 进阶玩法精选 027】VPS IP 声誉与解锁：为什么 IP 被封锁、怎么换干净 IP</title>
+      <link>https://vps-craft.com/compare/vps-ip-reputation-unlock</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-ip-reputation-unlock</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>新开 VPS 却连不上 Gmail、被流媒体拒之门外，多半是 IP 声誉拉胯。本文讲清 IP 黑名单（Spamhaus）、同段连坐、原生与广播 IP 区别、RackNerd 换干净 IP 姿势，以及流媒体解锁与 IPv6 干净地址真相。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【GigsGigsCloud 深度解析 2026】香港/马来西亚/美西机房实测：CN2 GIA 三网优化与 PCCW 直连选型、真实网络性能与避坑指南</title>
+      <link>https://vps-craft.com/compare/gigsgigscloud-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/gigsgigscloud-review-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 年 GigsGigsCloud (GGC) 深度横评：深剖母公司 TechAvenue 背景与自主 AS64050 BGP 网络架构，实测香港 CLOUDLET V (CN2 GIA + AS9929 + CMI)、K+ (PCCW/HKBN) 与吉隆坡节点的真实延迟与丢包，提供完整套餐配置表、三网回程 MTR 路由追踪、流媒体解锁测试与退款换 IP 避坑准则。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>HostDare评测(2026)：年付$10起美西CN2 GIA/软银VPS晚高峰实测与6.5折优惠码</title>
+      <link>https://vps-craft.com/compare/hostdare-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/hostdare-review-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026最新HostDare深度测评！实测CSSD(CN2 GIA)、CAMD(联通4837)与JSSD(日本软银)三大系列晚高峰回程速度与流媒体解锁表现，汇总HostDare最新黑五6.5折循环优惠码与支付宝付款教程。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【API 中转 01】VPS 搭建 AI API 中转/代理：OpenAI / Claude 合规中转、延迟优化与成本</title>
+      <link>https://vps-craft.com/compare/vps-for-api-relay-chatgpt</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-for-api-relay-chatgpt</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>用 One-API / New-API 在 VPS 上自建 AI API 中转网关，统一多家模型 Key、限额与计费；讲清 1C1G 够用的原因、机房延迟优化、Nginx 调优，以及个人内部用量与对公众转售的合规边界。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 反向代理实战：Nginx、Caddy、HTTPS 与故障排查</title>
+      <link>https://vps-craft.com/compare/vps-reverse-proxy-nginx-caddy</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-reverse-proxy-nginx-caddy</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 反向代理实战：Nginx、Caddy、HTTPS 与故障排查，含可复现检查命令、配置示例、选型对照及备份恢复步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【网盘实战 01】2026 用便宜大盘鸡 VPS 自建私人云盘：Nextcloud 完整部署、S3/对象存储挂载与硬件选型</title>
+      <link>https://vps-craft.com/compare/self-host-nextcloud-cheap-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/self-host-nextcloud-cheap-vps-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>手把手用 Contabo、RackNerd、CloudCone、Virtono 等低价 VPS 搭建 Nextcloud 私人网盘，对比大硬盘、大内存套餐与流量上限，替代百度网盘/OneDrive 的隐私与成本方案。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>VPS 可用性监控实战：Uptime Kuma、告警与故障验收</title>
+      <link>https://vps-craft.com/compare/self-host-uptime-kuma-monitoring-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/self-host-uptime-kuma-monitoring-vps-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>VPS 可用性监控实战：Uptime Kuma、告警与故障验收，含可复现检查命令、配置示例、选型对照及备份恢复步骤。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【2026排查】VPS IP被Q/Ping不通自救指南：端口阻断检测、各大机房免费换IP政策与CDN救砖</title>
+      <link>https://vps-craft.com/compare/vps-ip-blocked-banned-fix</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/vps-ip-blocked-banned-fix</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新 VPS 连接超时与海外 IP 阻断排障手册：精准区分整机 IP 阻断、端口不可达与主机商封停三大场景，实测 3 分钟 ICMP 与 TCP 快速诊断 SOP。深度横评 CloudCone、RackNerd、DediRock、搬瓦工与 DMIT 换 IP 政策，推荐免信用卡平价救砖玩具小鸡，详解 CDN 救援与建站防失联策略。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>2026 跨境电商多账号 VPS：一机一 IP 防关联与店铺安全</title>
+      <link>https://vps-craft.com/compare/cross-border-ecommerce-multi-account-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/cross-border-ecommerce-multi-account-vps-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>亚马逊、Temu、ETSY 多店卖家最怕账号关联。本文拆解平台风控如何综合 IP、设备指纹、浏览器环境判定关联，给出「独立 VPS + 固定原生 IP + 环境隔离」落地方案，并横向对比 LisaHost、HostDare、DMIT 算清防关联成本。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>【邮件自托管 02】2026 自建邮件服务器（Mailcow）：25 端口、IP 信誉与不被 Gmail 扔垃圾箱的三个生死线</title>
+      <link>https://vps-craft.com/compare/self-host-mailcow-email-vps-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/compare/self-host-mailcow-email-vps-2026</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <description>想用自己域名邮箱？Mailcow 软件半小时装好，真正的难关在基础设施：25 端口是否开放、IP 是否进黑名单、PTR 是否对齐。本文用真实商家政策讲清三条生死线与选购建议。</description>
+      <category>VPS 选购指南</category>
+    </item>
+    <item>
+      <title>手把手申请 Oracle 永久免费 ARM：从注册到开机避坑全攻略</title>
+      <link>https://vps-craft.com/docs/oracle-cloud-always-free-arm</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-cloud-always-free-arm</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 最新 Oracle Cloud（甲骨文云）永久免费 ARM 服务器申请实战。新账户配额实测（2C12G）+ 信用卡 ABC 拒付破解与主区域避坑，涵盖开机创建 2核12G 实例、硬盘无损切分、防火墙放行与防闲置回收全流程详解。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>天下真有“免费的午餐”？Oracle 永久免费超低配小鸡测试</title>
+      <link>https://vps-craft.com/docs/oracle-always-free-micro-test</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-always-free-micro-test</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>甲骨文云（Oracle Cloud）Always Free 永久免费 AMD 微型服务器（VM.Standard.E2.1.Micro，2核1G）深度实测：硬件配置、CPU算力、1GB内存瓶颈、50M网络与流媒体表现全维度解析。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>拒绝封号与关机：Oracle 官方闲置回收规则深度解读与优雅保活姿势</title>
+      <link>https://vps-craft.com/docs/oracle-cloud-idle-reclamation-keepalive</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-cloud-idle-reclamation-keepalive</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度解读甲骨文云（Oracle Cloud）Always Free 官方闲置实例回收政策（CPU/内存/网络 20% 阈值与 95 百分位计算逻辑）。分析“被关机”与“封号”的本质区别，警惕暴力挖矿脚本的封号陷阱，提供升级 PAYG 免死金牌、lookbusy 平滑保活及真实业务常驻等合规防回收全攻略，附官方文档权威来源。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>告别“迷宫级”反人类后台：Oracle 云安全列表全端口放行与 Docker 防火墙避坑实战</title>
+      <link>https://vps-craft.com/docs/oracle-cloud-security-lists-open-all-ports</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-cloud-security-lists-open-all-ports</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度吐槽甲骨文云（OCI）反人类交互逻辑，解析“安全列表”与“网络安全组（NSG）”的并集生效机制。手把手配置 IPv4 与 IPv6 全协议入站/出站放行，并提供绝不破坏 Docker 网络的系统级 iptables 精准解封方案。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>21年老牌主机商 JustHost 深度评测：全球30+机房免费随意切，附21周年庆折扣码</title>
+      <link>https://vps-craft.com/docs/justhost-vps-review-anniversary-promos</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/justhost-vps-review-anniversary-promos</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>成立于 2005 年的老牌海外主机商 JustHost 迎来 21 岁生日！深度剖析其“全球 40+ 机房一键免费切换、大带宽全线不限流量、乐高式自定义配置”等独门神技。汇总 2026 最新官方 40% 首单折扣码与 21% 终身循环续费优惠码实操与选购策略。</description>
+      <category>优惠推介</category>
+    </item>
+    <item>
+      <title>ColoCrossing 优惠码到底哪个能用？最新全网折扣实测与真实结算截图验证（避坑防踩雷）</title>
+      <link>https://vps-craft.com/docs/colocrossing-promo-codes-verified-screenshots</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/colocrossing-promo-codes-verified-screenshots</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>网上流传着海量 ColoCrossing（CC）优惠码，到底哪些依然有效？哪些早已过期？博主亲自肉身实测全网热门 ColoCrossing 促销代码，逐一放入购物车结算验证，附带真实折扣截图、适用套餐范围及终身循环/首单折扣说明，拒绝虚标假促销！</description>
+      <category>优惠推介</category>
+    </item>
+    <item>
+      <title>便宜VPS“捡垃圾”：DediRock 洛杉矶 $7/年 KVM 实测（真实测试）</title>
+      <link>https://vps-craft.com/docs/dedirock-la-7usd-year-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/dedirock-la-7usd-year-vps-benchmark</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>年付仅 7 美元（约合人民币 50 元）的 DediRock 洛杉矶 VPS 到底能跑出什么数据？本篇采用“只测不评”模式，搬运并预留 2025-2026 网友热议的 1核2G 30G 硬盘 KVM 实例各项跑分与基础信息。特别提醒：纯当玩具，数据无价，谨慎上车。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>搬瓦工 BIGGERBOX-20-1024 与 BIGGERBOX-PRO 到底差在哪？附详细对比表</title>
+      <link>https://vps-craft.com/docs/bwh-biggerbox-20-1024-vs-biggerbox-pro-comparison</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/bwh-biggerbox-20-1024-vs-biggerbox-pro-comparison</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>搬瓦工（BandwagonHost）火爆全网的限量版“Box系列”神机怎么选？年付 $37 的初代 BIGGERBOX-20-1024 与年付 $39 的升级款 BIGGERBOX-PRO 到底差在哪？本文从机房线路（DC99 vs DC1）、邀请码购买门槛、机房迁移限制、性能跑分及“30天被Q可退”条款全方位深度对比，助你精准避坑上车。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>DediRock 10美元以内超便宜VPS推荐：年付不到50元的“玩具鸡/传家宝”盘点与避坑指南</title>
+      <link>https://vps-craft.com/docs/dedirock-vps-under-10-usd-recommendations</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/dedirock-vps-under-10-usd-recommendations</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>年付仅需 $6.45~$7（折合人民币不到50元），DediRock 的超低价 KVM 实例为何能成为玩家口中的“捡垃圾神车”？本文系统盘点 DediRock 官方数据库中所有 10 美元以内的经典年付与入门月付玩具机，横向对比洛杉矶与纽约机房核心参数、适用场景与避坑要点，附带直达选购入口。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>CloudCone 15美元以内“玩具鸡”盘点与全周期高性价比套餐选购指南（附测速IP与避坑提示）</title>
+      <link>https://vps-craft.com/docs/cloudcone-vps-under-15-usd-and-best-value-recommendations</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/cloudcone-vps-under-15-usd-and-best-value-recommendations</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>想花几十块钱买台年付 VPS 练手？常常有现货的 CloudCone 到底值不值得上车？本文系统盘点 CloudCone 数据库中 15 美元以内的入门“玩具鸡”以及全周期 2GB~4GB 大内存、大硬盘超值性价比神机。全面公开洛杉矶（Multacom）与圣路易斯官方测速节点与文件，并重点剖析工单响应慢、无退款政策等关键风险，助你理性折腾。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>JustHost 2026 双11优惠码深度实测与选购攻略：首期5折/终身循环6折算账与避坑指南</title>
+      <link>https://vps-craft.com/docs/justhost-double-11-promo-codes-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/justhost-double-11-promo-codes-2026</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 双11大促打响，21年老牌主机商 JustHost 官方推出超强折扣：首期 5 折神码 11VPS50、预付 6 个月起终身循环 6 折码 11VPS40 以及灵活循环 6.5 折码 11VPS35！本文对比三大代码适用场景、以热门 Sirius 套餐实际测算折后价格，详解全球 40+ 机房免费切换与全线不限流量玩法，附活动截止日期（11-14）避坑提示。</description>
+      <category>优惠推介</category>
+    </item>
+    <item>
+      <title>RackNerd 20美元以内VPS推荐：41款套餐横向盘点、支付方式与官方测速IP全解析</title>
+      <link>https://vps-craft.com/docs/racknerd-vps-under-20-usd-recommendations</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/racknerd-vps-under-20-usd-recommendations</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>RackNerd 数据库里 20 美元以内共有 41 款套餐（40 款年付 + 1 款月付），价格从 $9.89/年到 $19.89/年。本文按价位分档横向对比配置、流量与档期，公开官方 10 个机房的测速 IP、Looking Glass 与测速文件正确路径，并逐项核实支付宝、银联、PayPal、信用卡、加密货币等支付方式与「官方不退款」条款，附新标签页直达选购入口与避坑提示。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>搬瓦工(BandwagonHost)2026评测：DC6/DC9 CN2 GIA怎么选？附6.77%最大优惠码与换IP教程</title>
+      <link>https://vps-craft.com/docs/bandwagonhost-vps-review-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/bandwagonhost-vps-review-2026</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>搬瓦工（BandwagonHost）在库 149 条套餐里，121 条标注 CN2 GIA，价格从 $19/年一直到 $18,989.99，产品线远比「$49.99 季付一台」复杂。本文按 Basic、CN2 GIA-E、SLA、Ultra、限量版五条主线拆开套餐矩阵，对比同为 $49.99 / $86.99 / $89.99 的三组「同价不同物」，整理官方测速 IP 与测速文件的实际情况，逐项核实支付宝、银联、PayPal、微信支付与 30 天退款条款，并说明 29 条优惠码记录为何没有一条能当作「现在可用」。所有数字来自本站套餐库快照，第三方实测单独标注来源。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>DMIT 深度评测 (2026最新)：三网 CN2 GIA 与 Eyeball 晚高峰实测，换 IP 规则与优惠码避坑指南</title>
+      <link>https://vps-craft.com/docs/dmit-vps-review-pro-eb-t1</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/dmit-vps-review-pro-eb-t1</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>DMIT 在洛杉矶、香港、东京售卖 Pro（美西三网回程 CN2 GIA）、Eyeball（美西 9929+CMIN2，亚太 CMI）与 Tier 1（国际 BGP）三条线。本文用 15 款代表套餐拆解三条线的真实路由策略与适用人群，核实支付宝与信用卡支付渠道、3 天全额与 30 天按比例退款红线，公开测速 IP、超量降速与免费换 IP 机制，给出按运营商对号入座的决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>RackNerd 全价位深度评测：$20 以上高配、Ryzen NVMe 与官网原价月付避坑（含 DC-02 与 CN2 真实考证）</title>
+      <link>https://vps-craft.com/docs/racknerd-vps-review-full-range</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/racknerd-vps-review-full-range</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>RackNerd 数据库中收录了 96 款套餐。本文重点剖析 $20 以上产品线：拆解 Ryzen NVMe 与大内存年付的真实性价比，深度揭秘官网 $17.99/月起步套餐的「正价锚点」本质；针对中文社区流传甚广的「洛杉矶 DC-02 亚洲优化 / CN2 GT」传言，独家调取 LowEndTalk 官方公告、物理迁出 707 Wilshire 的原始英文记录与中文对照，并公开作者向官方发函核验的最新进展；最后附上 10 机房测速 IP、支付条款核实与结算页优惠码实测截图。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>CloudCone 深度评测：SC2 常规线、按小时计费与节日促销机怎么选</title>
+      <link>https://vps-craft.com/docs/cloudcone-sc2-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/cloudcone-sc2-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>CloudCone 其实有两条几乎不相干的产品线：按小时计费的 SC2 常规云服务器，和按年付甩卖的节日促销机。本文拆解两者在功能、支持级别与计费口径上的差异，整理 12 档可下单套餐、洛杉矶 Multacom 的官方测速 IP 与下载测速文件，说明支付宝/PayPal 充值与 2025 年新政后的退款边界，并逐条标注优惠码的核实状态，帮你判断自己该买哪条线。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Virtono 深度评测：$2.5 起的欧洲与美国多机房便宜 VPS，值不值得买</title>
+      <link>https://vps-craft.com/docs/virtono-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/virtono-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Virtono 是一家覆盖 29 个机房的罗马尼亚主机商，入门月付 $2.5、年付最低 $11.21，欧洲的罗马尼亚/荷兰/德国与美西节点是主要看点。本文按数据库 15 条套餐拆解真实配置，核实支付宝可用、微信支付未核实的支付现状，整理官方测速 IP 与 1GB.bin 下载文件，并逐条标注历史优惠码的失效风险，附优缺点与不适合人群。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>HostDare 深度评测 (2026最新)：洛杉矶低价 CN2 GIA 实测，CKVM vs QKVM 与优惠码避坑</title>
+      <link>https://vps-craft.com/docs/hostdare-cn2-gia-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hostdare-cn2-gia-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>HostDare 是洛杉矶主打低价 CN2 GIA 的商家，但 GIA 只优化回程，端口 30–100Mbps、月流量 250GB 起，与普通直连的 1Gbps 大流量机型是两条产品线。本文拆解 CKVM、QKVM 与普通 NVMe 的价差，列出 17 款套餐与官方测速 IP 185.186.146.8，并说明支付宝、微信、银联的核实状态、3 天退款限制与优惠码可信度分级。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>丽萨主机 LisaHost 2026 深度评测：双 ISP 原生家宽住宅 IP 到底有多稳？TikTok 与电商防封实测</title>
+      <link>https://vps-craft.com/docs/lisahost-native-ip-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/lisahost-native-ip-vps-review</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>丽萨主机（LisaHost）以双 ISP 住宅 IP 与各地区原生 IP 为核心卖点。本文基于在库的 168 条全量套餐数据，拆解 CN2 GIA、9929、4837、CMI、多地区双 ISP 住宅（涵盖美、港、日、台、英、德、韩、新、越）及特价年付系列，逐档对比配置与真实价格；深度解析官方周期折扣（季付9折、年付8折、两年付7折）叠加全场通用9折优惠码（如 bestcheapvps、TS-CBP205DQJE，续费同价，年付实付7.2折 / 两年付6.3折）的计费逻辑；结合购物车真实核验日志同步优惠码可用状态；核实支付宝与 USDT 支付口径、48小时退款细节及测速验证建议，并讲清原生/住宅 IP 的合法用途与合规红线。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>ColoCrossing 深度评测：AS36352 上游大厂直销 VPS，$1.97/月起到底值不值</title>
+      <link>https://vps-craft.com/docs/colocrossing-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/colocrossing-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>ColoCrossing 是 AS36352 的机房运营方，也是大量低价 VPS 商家的上游。本文按站内 66 款套餐数据，拆解 $1.97/月 与 $10.99/年 两条促销线的真实限制，给出纽约、洛杉矶、达拉斯、芝加哥四地官方测速 IP 与下载文件，核实支付宝、PayPal、信用卡、加密货币等支付方式及「Cloud VPS 一律不退款」条款，并梳理优惠码来源与核实状态，文末附决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>BuyVM 深度评测 (2026最新)：卢森堡抗投诉 + $1.25 块存储实测，1Gbps 不限流量避坑指南</title>
+      <link>https://vps-craft.com/docs/buyvm-vps-review-unmetered</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/buyvm-vps-review-unmetered</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>BuyVM（Frantech）以 Unmetered 不限流量和 $1.25/256GB 块存储著称。本文拆解 KVM Slice 与 Block Storage Slab 的区别，梳理拉斯维加斯、纽约、迈阿密、卢森堡四大机房的取舍，整理 14 款套餐价格矩阵、官方测速 IP 与下载文件、支付宝/PayPal/信用卡的退款差异，并说明优惠码为何全部标注为待核实。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Vultr 深度评测：按小时计费、全球机房与高频实例，到底适合谁</title>
+      <link>https://vps-craft.com/docs/vultr-vps-review-hourly-global</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/vultr-vps-review-hourly-global</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Vultr 的按小时计费最容易被误读：Stop 只是关机、照样计费，Destroy 才真正停止扣钱，且每月按 672 小时封顶折算月价。本文拆解 Cloud Compute、High Frequency、Optimized Storage 三条产品线的价差逻辑，逐档点评 6 款在售套餐，说明 $2.5 IPv6-only 入门款的可用性边界，整理 12 个代表机房的官方测速 IP 与下载测速文件，并按官方一手口径核对支付宝、银联、PayPal、加密货币等支付方式与「不退款」条款，另附优惠码核实状态与决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Hetzner 德国低价云深度评测：3.79 美元档的 ARM 与 x86，到底该选哪台</title>
+      <link>https://vps-craft.com/docs/hetzner-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hetzner-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hetzner 同价位双架构最容易踩坑：同样 3.79 美元，CX11 是 x86、CAX11 是 ARM，配置相近但兼容性不同。本文按登记的 10 款套餐拆解 CX／CAX／CCX 三条线的取舍，说明 Falkenstein 测速入口为何没有公开固定 IPv4、回国访问为何只能是 BGP，并核对支付宝、微信、银联、PayPal 的官方 status 与 14 天退款条款，附 10 条优惠码核实状态。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Contabo 深度评测：8GB 内存 4.5 美元起，大内存低价背后的账单结构</title>
+      <link>https://vps-craft.com/docs/contabo-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/contabo-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Contabo 把内存单价压到行业罕见水平，4 核 8GB 只要 4.5 美元/月，6 核 12GB NVMe 只要 6.25 美元/月。但低价背后是一整套要提前算清的账单结构：部分套餐收一次性开通费、低价对应长期合约、端口速率按档位分列。本文整理 8 款在售套餐、逐币种支付方式与 14 天撤回权、官方测速入口与自测方法、第三方实测的 Geekbench 与 IOPS 数字，以及优惠码核实状态与不适合人群。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Hostinger 建站型 VPS 评测：hPanel、首价与续费价，以及那笔两年账</title>
+      <link>https://vps-craft.com/docs/hostinger-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hostinger-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hostinger 的 VPS 卖点不是「最便宜的机器」，而是把 KVM 主机塞进一套建站流水线：hPanel 面板、一键装 WordPress 与 n8n、免费周备份与快照、免费一年域名。本文拆解 KVM 1/2/4/8 五档套餐的价差逻辑，算清 $6.49 首价与 $11.99 续费之间的两年账本，按官方一手口径整理支付宝、微信支付、银联的支付状态与 30 天退款细则，说明测速 IP 数据的缺失现状，并逐条标注优惠码核实状态，最后给出决策清单与不适合人群。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Kamatera 评测：$4 起的按需云，灵活是真的，便宜要算清</title>
+      <link>https://vps-craft.com/docs/kamatera-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/kamatera-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Kamatera 卖的不是固定套餐，而是可自由拼装的按需云：$4 起、按分钟计费、二十余个机房可选。本文拆开 Type A 与 Type B 的线程差异，逐档点评 5 款在售配置，说明月付预付费、30 天 $100 试用与终止计费的真实边界；支付一章按官方口径标注信用卡 supported、PayPal conditional，支付宝、银联、微信支付均为 unknown 未核实；另附 6 个官方测速入口、不退款条款与 1MONTH300 的核实状态。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>OVHcloud 深度评测：欧洲大厂的 VPS 与独服，$3.5 起步价背后的真实边界</title>
+      <link>https://vps-craft.com/docs/ovhcloud-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/ovhcloud-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>OVHcloud 是欧洲大厂，产品横跨 VPS、Public Cloud 与独立服务器。本文基于站内登记的 5 款套餐（$3.5 的 VPS Starter 到 $56.99 的 Rise-1 独服），逐档拆解配置与边界；支付章按官方一手文档标注支付宝、微信、银联、PayPal 与电汇的真实状态，并厘清 14 天撤回权的适用条件；测速章整理 13 个官方 Looking Glass 与鲁贝的 10MB/100MB/1GB 下载文件；优惠码章标注 5 条码的核实状态与过期情况。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>DigitalOcean Droplet 深度评测：按秒计费、$4 起步，开发者云到底值不值</title>
+      <link>https://vps-craft.com/docs/digitalocean-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/digitalocean-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>DigitalOcean Droplet 是面向开发者的按秒计费云主机：$4 的入门款、$6 起的 1GB 常用款，月付封顶、关机仍计费、销毁才停扣。本文逐档拆解本站登记的 7 款套餐，说明机房取舍、官方未公开测速入口时如何自测，并按官方一手文档核对支付宝、微信、银联、PayPal 等支付状态与「不退款」条款，附优惠码核实状态与决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>GreenCloudVPS（绿云）评测：$6 月付与 $15 年付并存，亚太低价机的线路边界</title>
+      <link>https://vps-craft.com/docs/greencloudvps-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/greencloudvps-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>GreenCloudVPS（绿云）同时经营两条价格体系：常规月付 $6 起、新客户可享 7 天退款；年付促销 $15 起、明确不退款。本文从 17 条归档套餐中挑出 13 款对比，讲清香港 10Mbps 回国带宽、东京 IIJ 与软银的随机分配、新加坡普通线与 Premium 线的差距，并附官方测速 IP、支付宝与银联的可用状态、7 天退款排除项，以及记录到期日已过的优惠码。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>WebHorizon NAT 超低价 VPS 评测：$1.1 起的共享 IP 生意，与独立 IPv4 差在哪</title>
+      <link>https://vps-craft.com/docs/webhorizon-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/webhorizon-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>WebHorizon 用 $1.1/月 的 KVM-NAT 与 $7/年 的 NAT 年付把门槛压到极低，但 NAT 意味着共享公网 IPv4、只分到一段转发端口，邻居滥用会让整个 IP 连坐被封。本文拆解 NAT 与独立 IPv4 的真实差别，梳理 11 款套餐（含已下架的闪购与 NAT 机型）、新加坡机房的第三方实测与 160.191.77.33 测速入口，核对支付宝、微信、PayPal 的支付状态与 48 小时退款规则，并逐条标注 10 个优惠码的核实状态。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>netcup 德国性价比 VPS 评测：€4 起的欧洲算力，Root Server 与 VPS 差在哪</title>
+      <link>https://vps-craft.com/docs/netcup-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/netcup-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>netcup 是德国老牌主机商，VPS 500 起价 €4/月、流量标注不限，Root Server 则卖独享物理核。本文拆解四条产品线的真实差异，算清 IPv6-only 每月省下的 €0.5 与补回 IPv4 的代价，给出纽伦堡到国内三网的延迟区间，并按官方口径核实支付方式（无支付宝、无微信）、14 天撤回权的限制、官方测速入口与历史优惠码的核实状态，最后附优缺点与决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>MassiveGrid 中东与欧洲机房评测：$9.99 年付的 HA 云，法兰克福能不能当中东节点用</title>
+      <link>https://vps-craft.com/docs/massivegrid-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/massivegrid-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>MassiveGrid 用 $9.99/年的 1 核 1G 年付套餐做引流，卖点却是 Proxmox 高可用集群、Ceph 三重副本与 12 Tbps 防御。本文拆开六个套餐的真实单价，说清它并没有中东机房、法兰克福只是到海湾 90~120ms 的欧洲跳板，并核对伦敦节点的第三方实测。支付按核实状态列出：卡与 PayPal 可用，支付宝、微信、银联均未核实；退款仅限首次开通 15 天内且促销单除外；官方不公开测速 IP；两条优惠码只标来源，未由本站实测。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>HostKvm 香港美国 KVM 评测：$6.4 起的三条香港线路，选错一条等于白花钱</title>
+      <link>https://vps-craft.com/docs/hostkvm-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hostkvm-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>HostKvm 卖香港三条线路的 KVM 小鸡，$6.4/月 起，Xeon + SSD RAID-10。它的坑不在配置，而在「线路越好、带宽越细」：CN2 GIA 只给 35Mbps，普通 CN2 给 100Mbps。本文拆解 11 款套餐与库内价格倒挂，核对支付宝、PayPal、信用卡的支付 status 与 3 天退款 $1 手续费，给出六个官方测速入口，并标注 10 个优惠码的核实状态。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>VMISS 深度评测 (2026最新)：CN2 GIA/AS9929/CMIN2 三网回国实测，选购建议与优惠码避坑</title>
+      <link>https://vps-craft.com/docs/vmiss-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/vmiss-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>VMISS 把 CN2 GIA、AS9929、CMI/CMIN2 三条回国线路放进同一个面板，12 款套餐从 $4/月到 $154/年，同档配置换条线路价格能差一倍。本文讲清「全员 CN2」与「三网各回各家」两种优化的区别，按电信、联通、移动给出选购建议，并说明支付核实状态、测速入口缺失的替代方案、3 天退款门槛与优惠码到期情况。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>野草云 Yecaoyun 香港 VPS 评测：118 元一年的 BGP 小鸡，先把支付与线路看清</title>
+      <link>https://vps-craft.com/docs/yecaoyun-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yecaoyun-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>野草云用人民币标价、年付 118 元起，是中文圈里门槛最低的香港 BGP 选项之一。本文按 16 条收录套餐拆解「轻量」与「云服务器」两条产品线的真实差异，对照第三方两组延迟数据说明精品、优质、国际三档 BGP 的落差，逐条核实支付方式（支付宝可用，PayPal 与微信均不在结算网关内）与 3 天退款条款的例外，并给出官方测速入口、优惠码核实状态与决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>衡天云 香港/日本高防 VPS 评测：高防到底防什么，CN2 GIA 值不值这个价</title>
+      <link>https://vps-craft.com/docs/hengtianyun-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hengtianyun-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>衡天云（原衡天主机）走「中文商家 + 香港/日本/美国 + CN2 GIA + 高防」路线，香港云 ¥12/月起，但端口只有 2M。本文拆开「高防」的三层含义——云服务器默认防护、物理高防 IP 清洗、Cloudflare 接入，给出 20G 到 300G 的报价曲线，对比三地线路差异，并按核实状态整理支付（支付宝/微信 supported、银联未核实）、3 天退款限制、测速入口缺失与三个历史优惠码的失效风险。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>SpartanHost 西雅图高防 VPS 评测：$4 起的美国 BGP，20G 防护与 CMIN2 到底怎么选</title>
+      <link>https://vps-craft.com/docs/spartanhost-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/spartanhost-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>SpartanHost（斯巴达）把「自带 DDoS 防护」做成了标配：西雅图 20Gb/s TCP 防护可升级到 200Gb/s，达拉斯与阿什本是 CosmicGuard 1Tb/s+。本文按 32 条本地数据挑出 12 条套餐对比，拆清「高防 + CMIN2」这条组合的真实边界——防什么、何时触发、被打之后怎么处理、攻击流量算不算月流量；同时按官方口径核实支付方式（支付宝支持、微信不支持、银联未核实）、48 小时退款限制、两个机房的测速 IP 与下载文件，以及 10 条历史优惠码的核实状态。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>OuluCloud 欧路云评测：芬兰低价 VPS 的期待与现实，$2.49 起的亚太与美西怎么选</title>
+      <link>https://vps-craft.com/docs/oulucloud-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oulucloud-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>OuluCloud（欧路云）因「Oulu」之名常被当作芬兰低价 VPS。本文先核对品牌名与真实节点，再解释欧洲机房到国内 180~260ms 的量级从何而来；整理 9 条 $2.49 起套餐与三条线路的选型差别，按原始状态列出支付方式，拆解「只退余额」的退款条款，并给出测速 IP、优惠码核实状态与选购决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>AkileCloud怎么样？2026便宜香港/日本/台湾原生IP流媒体解锁VPS实测(附DNS解锁与交易市场解析)</title>
+      <link>https://vps-craft.com/docs/akilecloud-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/akilecloud-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>AkileCloud 用 ¥9.99 起的套餐矩阵同时卖三样东西：香港的低延迟、日本 IIJ 的国际出口、新加坡的海外互联，而&quot;流媒体解锁&quot;多由商家内网 DNS 实现，并非原生 IP。本文对比 11 款在售套餐，拆开香港四个系列与澳门广播 IP 的真实差别，附测速 IP、支付宝与 USDT 的可用状态、开通后不受理退款的条款原文，以及 8 条未由本站实测的优惠码。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>GigsGigsCloud 评测：香港 CN2 GIA、新加坡 PCCW 与美国高防三条线怎么分</title>
+      <link>https://vps-craft.com/docs/gigsgigscloud-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/gigsgigscloud-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>GigsGigsCloud 是面向中文用户的香港商家，产品线横跨香港 CN2 GIA、香港与新加坡 PCCW、美国洛杉矶 CN2 GIA 以及 CERA 高防，价格从 $5.8/月到 $199/月。本文按线路拆开 13 款套餐的端口与流量账，给出香港 27.122.56.10 与洛杉矶 38.106.22.2 两个测速 IP，逐条标注支付宝、PayPal、信用卡为 supported、微信与银联未核实，并整理 10 条优惠码的来源与可信度。推广链接只认根域 ?affid=，无法深链到具体套餐。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Aeza 评测：莫斯科 $6.4 起的俄罗斯 VPS，支付、绕路延迟与内容合规怎么算</title>
+      <link>https://vps-craft.com/docs/aeza-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/aeza-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aeza 常被简单归为「俄罗斯 VPS」，但它的运营主体在香港，机房横跨欧洲与俄罗斯，本文收录的 5 条套餐则全部落在莫斯科。这篇评测把四件事讲清：支付渠道为何多数只能标「未核实」、经欧洲绕路后 140~220ms 的延迟量级从何而来、Roskomnadzor 体系下的内容风险与 DMCA 商家有何不同、俄语优先带来的沟通门槛；并给出套餐矩阵、测速入口现状、优惠码核实状态与决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>Timeweb Cloud 俄罗斯云评测：$22.7 起的按小时云主机，线路、支付与合规三道门槛</title>
+      <link>https://vps-craft.com/docs/timeweb-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/timeweb-vps-review</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Timeweb Cloud 是俄区老牌云平台，数据库收录 6 条俄罗斯套餐，价格从 $22.7 到 $69.81，共享核云主机与 Ultra 独享高频核两条线混卖。本文拆解两者差价为何能到 8 倍，给出莫斯科经欧洲回国的 140~220ms 延迟量级，逐条核实支付宝、微信、银联、PayPal 等九种支付通道的真实状态与退款口径，并附官方测速入口、优惠码核实状态与决策清单。</description>
+      <category>商家评测</category>
+    </item>
+    <item>
+      <title>甲骨文云 OCI 注册“终极邪修大法”：从逆向破风控、企业网络、Callback 隔离到同一实体卡复用的实战复盘</title>
+      <link>https://vps-craft.com/docs/oracle-cloud-registration-unconventional-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-cloud-registration-unconventional-guide</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度复盘油管知名博主「科技lion」在 Oracle Cloud（甲骨文云）注册上的逆向破局思路与成功经验。本文系统剖析被圈内戏称为“玄学”的底层风控原理，深度拆解 7 大反直觉的“邪修实战细节”：从长周期冷启动、国内原生企业网络直连、Gmail 验证邮件回调（Callback）网络精细切换、中英文同源拼音填报、反向选择欧洲冷门主区域（英国伦敦）、招商银行单标 Visa 同一张实体卡多次复用成功，到支付弹窗 10 秒人肉防抖等待；并提供新号首月安全“养号”守则、硬封与软封的机理识别与自救方案，彻底破解“注册即失败”的魔咒。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>VPS 选购与网络深度测评指南：教你彻底搞懂去程/回程路由测试与避坑（小白到进阶全景实操）</title>
+      <link>https://vps-craft.com/docs/vps-routing-and-benchmark-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/vps-routing-and-benchmark-guide</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>买 VPS 最怕花了大价钱却买到减配线路，晚高峰直接卡死！本文系统化拆解 VPS“去程”与“回程”的核心底层逻辑，手把手教你如何用社区最权威的成熟工具（ITDOG、Backtrace、NextTrace、融合怪）对服务器进行全方位网络与性能体检，附三大运营商顶级线路代号速查表。</description>
+      <category>玩机教程</category>
+    </item>
+    <item>
+      <title>云悠洛杉矶 C.Std.T Pro 深度评测：移动 CMIN2 + 联通 9929 双精品网，4核4G高配月付 36.99 元实测</title>
+      <link>https://vps-craft.com/docs/yunyoo-lax-cstdt-pro-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-lax-cstdt-pro-vps-review</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>实测特色国人主机商云悠（YUNYOO）洛杉矶 China.Standard.Traffic Pro 机器。搭载 AMD EPYC 7K62 处理器，双程回程硬核实测：移动直连 CMIN2（上海仅 126ms）、联通走 9929 顶级 A 网。IP 欺诈度 0 分，Netflix/Disney+/ChatGPT 全绿解锁。</description>
+      <category>测评专栏</category>
+    </item>
+    <item>
+      <title>云悠全系套餐综合选购指南：南北地域测速、三网线路深度拆解与高性价比机型推荐（2026 最新）</title>
+      <link>https://vps-craft.com/docs/yunyoo-vps-full-plans-buying-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-vps-full-plans-buying-guide</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>基于云悠（yunyoo.cc）全量 65 款 VPS 实时规格与价格数据库，按中国南部与北部地域出口差异、移动/联通/电信三大运营商线路特性，深度拆解 CMIN2、AS9929、CN2、AS4837、双 ISP 原生住宅 IP 等各系列优缺点，并为普通日常轻量上网、建站挂机、跨境电商出海等不同需求用户提供最具性价比的精准选购方案。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>VPS 线路名词全解析：从 CMIN2、AS9929、CN2 到 AS4837 与双 ISP，小白也能看懂的选线指南（2026 最新）</title>
+      <link>https://vps-craft.com/docs/yunyoo-vps-network-routes-explained</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-vps-network-routes-explained</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>CMIN2、AS9929、CN2 GIA、AS4837、CMI、双 ISP、IIJ 到底都是什么意思？本文面向普通宽带用户，用通俗生动的“交通公路”比喻彻底破除黑话迷思，给出三大运营商“顶级线路 vs 普通线路”的极简速记卡；同时结合实操工具教你如何亲自上机抓包验证商家宣传是否虚标，文末附维基百科与权威自治系统（ASN）官方考证文献。</description>
+      <category>网络技术</category>
+    </item>
+    <item>
+      <title>揭秘 VPS“过白”内幕：为什么电信精品网老卡在过白？过白到底是什么？（2026 深度科普）</title>
+      <link>https://vps-craft.com/docs/yunyoo-vps-route-whitelisting-explained</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-vps-route-whitelisting-explained</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>买 VPS 经常看到商家公告“电信正在过白中”、“联通已过白”，到底什么是“过白”？为什么好端端的精品线路需要运营商层层审批？本文深度揭秘电信 CN2、联通 9929、移动 CMIN2 骨干网的前缀过滤白名单机制、阻断原因与三大运营商目前的风控现状，文末附权威文献与知识来源。</description>
+      <category>行业揭秘</category>
+    </item>
+    <item>
+      <title>什么是双 ISP 原生住宅 IP？为什么它是 TikTok、ChatGPT 与海外风控的终极克星？（2026 全景拆解与验真指南）</title>
+      <link>https://vps-craft.com/docs/dual-isp-residential-ip-explained</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/dual-isp-residential-ip-explained</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>机房 IP、原生 IP、住宅 IP、双 ISP 到底有何区别？为什么 TikTok 经常 0 播放、ChatGPT 频繁报 Access Denied、亚马逊/eBay 动辄封店？本文深度剖析全球 IP 数据库（IPinfo、IP2Location、MaxMind）与大厂风控引擎的识别机理，彻底讲透双 ISP 的技术本质；对比传统动态住宅代理池与机房静态双 ISP VPS 的优劣，手把手教你如何用工具亲自验真伪，文末附权威文献与知识来源。</description>
+      <category>网络技术</category>
+    </item>
+    <item>
+      <title>什么是 NAT VPS？没有独立公网 IP 的便宜小鸡该怎么玩？（2026 全场景进阶实操与避坑指南）</title>
+      <link>https://vps-craft.com/docs/nat-vps-complete-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/nat-vps-complete-guide</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>为什么有的海外 VPS 只要几块钱一个月甚至几美元一年？没有独立公网 IPv4 的 NAT VPS 到底是什么原理？本文深度剖析 NAT 共享 IP 机制，手把手演示如何用 Realm / Gost 搞定高性能中继转发、如何用 Cloudflare Tunnel 零公网端口免费建站，并介绍 Hinet 台湾动态家宽与探针挂机等经典玩法，附文末权威 RFC 与维基百科文献。</description>
+      <category>玩机教程</category>
+    </item>
+    <item>
+      <title>2026 回国优化 VPS 终极选购指南：搬瓦工、DMIT 与高性价比平替商家的决选决策树</title>
+      <link>https://vps-craft.com/docs/china-optimized-vps-bandwagon-dmit-alternatives-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/china-optimized-vps-bandwagon-dmit-alternatives-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 年中美与亚欧跨洋网络环境更加严峻，晚高峰普通民用骨干网丢包率常年居高不下。本文深度拆解两大行业标杆搬瓦工（BandwagonHost）与 DMIT 的硬件、线路与换 IP 机制，客观剖析 CN2 GIA、AS9929、CMIN2 新三足鼎立格局；独家绘制多维度决选决策树，教你根据家庭宽带（电信/联通/移动）与预算精准锁定最优机型和平替方案，文末附权威文献与知识来源。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>2026 年服务器硬件大涨价究竟如何？从晶圆荒、内存通胀到全球 VPS 主机生存法则</title>
+      <link>https://vps-craft.com/docs/server-hardware-price-hike-vps-hosting-guide-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/server-hardware-price-hike-vps-hosting-guide-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 年为什么连老牌良心机房都在疯狂调价？为什么曾经随处可见的“10美元/年”廉价 VPS 正在沦为绝唱？本文全景拆解这场由生成式 AI 算力挤占引发的“硅基通胀”：从台积电先进制程代工调价、三大存储原厂（三星/SK海力士/美光）倾斜 HBM 导致的 DDR5/企业级 SSD 严重供不应求，到全球数据中心电网承载危机与 IPv4 长期交易成本居高不下；深入调研 Hetzner、OVHcloud 等云巨头的真实调价公告与 LowEnd 社区动态，为广大开发者与出海站长提供一套硬核实用的“抗通胀”VPS 选购生存法则，文末附权威数据研报与官方文献溯源。</description>
+      <category>行业观察</category>
+    </item>
+    <item>
+      <title>VMISS 日本东京 VPS 实测报告：IIJ 与 三网优化 TRI 线路性能/跑分/解锁评测</title>
+      <link>https://vps-craft.com/docs/vmiss-japan-vps-benchmark-test-report</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/vmiss-japan-vps-benchmark-test-report</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>基于 NodeSeek 社区一线实测数据，全面评测 VMISS 日本东京 VPS（JP.TKY.IIJ 与 JP.TKY.TRI）。对比 Intel Xeon 与 AMD EPYC 架构算力、Fio 磁盘 IOPS、三网去程与回程路由（电信 CN2/联通 AS9929与4837/移动 CMI）、流媒体与原生 IP 解锁情况。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>VMISS 韩国首尔 VPS 实测报告：BGP/三网优化 50Mbps 极低延迟与线路性能真实评测</title>
+      <link>https://vps-craft.com/docs/vmiss-korea-seoul-vps-benchmark-test-report</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/vmiss-korea-seoul-vps-benchmark-test-report</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>基于 NodeSeek 真实测试数据，全面测评 VMISS 韩国首尔 VPS（KR.SEL.BGP / KR.TRI）。实测青岛 30ms、上海 38ms、北京 42ms 的超低直连延迟，考察 50Mbps 端口峰值跑满率、Fio NVMe 读写、三网回程路由、韩区流媒体解锁与月付 CAD 3.6 极高性价比。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>VMISS 新加坡 VPS 实测真相辨析：官方节点现状、香港中继延迟与 4 大平替横评</title>
+      <link>https://vps-craft.com/docs/vmiss-singapore-vps-benchmark-and-alternatives</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/vmiss-singapore-vps-benchmark-and-alternatives</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>针对网络上高频检索的“VMISS 新加坡 VPS”进行求真溯源：澄清 VMISS 官方产品线现状（目前仅设香港/日本/韩国/美西/英国节点），实测 VMISS 香港中继至新加坡机房的 30ms 跨境延迟，并深度横评 4 大原生新加坡高性价比替代方案（Akile、LisaHost、DMIT、DigitalOcean）。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>云悠（YUNYOO）洛杉矶 US4 双 ISP VPS 实测报告：联通 AS4837 回程、原生家宽属性与 24.99 元顶级性价比测评</title>
+      <link>https://vps-craft.com/docs/yunyoo-us4-dual-isp-4837-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-us4-dual-isp-4837-vps-benchmark</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度实测云悠（Yunyoo）美西洛杉矶 US4 流量型云服务器：评测美国双 ISP 原生家宽 IP 纯净度、联通 AS4837（CUVIP）三网回程实际表现、300~500Mbps 峰值大带宽下载吞吐。客观拆解中国联通、电信、移动三网晚高峰真实体验与丢包差异，并着重评测月付 ¥24.99 起的 4 大黄金档位机型。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>云悠（YUNYOO）日本东京 IIJ VPS 实测报告：Ryzen 9 处理器、双栈原生 IP 与 17.99 元 DDPS 移动优化廉价落地机测评</title>
+      <link>https://vps-craft.com/docs/yunyoo-tokyo-iij-jp1-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-tokyo-iij-jp1-vps-benchmark</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度实测云悠（Yunyoo）日本东京 JP1 流量型云服务器：评测 AMD Ryzen 9 处理器底子、双栈原生 IPv4+IPv6 属性、跨国流媒体解锁率、3Gbps 超大突发端口与 DDPS 上游 IIJ 网络回程。客观拆解中国移动晚高峰单线优势（70ms 超低延迟跑满 180M+）以及电信/联通跨网降级真相，着重推荐月付 ¥17.99 起的高性价比机型。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>云悠（YUNYOO）香港四区九龙 VPS 实测报告：Cloudie 上游、CN2+10099+CMI 混合优化线路与 15.99 元超低价测评</title>
+      <link>https://vps-craft.com/docs/yunyoo-hong-kong-hk4-cmi-10099-cn2-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-hong-kong-hk4-cmi-10099-cn2-vps-benchmark</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度实测云悠（Yunyoo）香港四区九龙 HK4 优化线路云服务器：基于 NodeSeek 社区公开实测数据，拆解 Cloudie（AS55933）上游网络架构、电信 CN2 / 联通 10099 / 移动 CMI 三网去程与混合回程质量。客观评析闲时 100~250Mbps 突发吞吐与晚高峰丢包波动，并横向梳理月付 ¥15.99 起的高性价比机型选型建议。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>硬件涨价只是幌子？揭秘 VPS 优化线路集体暴涨的深层真相：运营商封堵“偷带宽”漏洞与 IDC 真实成本大起底</title>
+      <link>https://vps-craft.com/docs/real-cause-vps-route-price-surge-bandwidth-loophole</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/real-cause-vps-route-price-surge-bandwidth-loophole</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>为什么 2025~2026 年海外优化线路 VPS（CN2 GIA、9929、CMIN2、4837）迎来罕见的集体涨价与低配下架潮？商家口中的“硬件大涨价”真的是主因吗？本文由 NodeSeek 知名商家“速维云”等行业老兵的爆料切入，深度揭露 IDC 圈讳莫如深的行业内幕：从运营商全面严打“偷带宽”漏洞与违规流量穿透，到低配跑量大户挤兑导致机房破产危机，再到硬件折旧与天价优化带宽的真实数学账本。</description>
+      <category>行业观察</category>
+    </item>
+    <item>
+      <title>HostHatch 洛杉矶活动机开箱实测：85 刀三年神鸡真相、三网回程（163/4837/CMI）、IP 纯净度与现货 AMD EPYC 选型替代指南</title>
+      <link>https://vps-craft.com/docs/hosthatch-los-angeles-epyc-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hosthatch-los-angeles-epyc-vps-benchmark</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度剖析 NodeSeek 技术论坛爆款神鸡——HostHatch 洛杉矶美西节点（85 刀/3年，2C6G 75G 10TB 配额）。完整引用社区实测数据，客观拆解 AMD EPYC 7402 硬件算力、7.5GB/s 巨幅 NVMe 吞吐、0 风险极度纯净的原生美区 IP 属性、三网回程路由（电信 163、联通 4837 与移动直连 CMI）。针对活动机已售罄的现状，系统整理当前在售的主流现货年付方案与优惠码使用建议。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>HostHatch 2.5TB 洛杉矶大盘机实测报告：从大容量存储 IO 极限到私有云备份架构，附现货 AMD EPYC NVMe 高性能选型指南</title>
+      <link>https://vps-craft.com/docs/hosthatch-los-angeles-storage-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hosthatch-los-angeles-storage-vps-benchmark</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度剖析 NodeSeek 技术社区热议的 HostHatch 洛杉矶 2.5TB 存储大盘机（Storage VPS）实机测试。完整引用博主 Javascript 的实测数据，全面解构 Intel Xeon Gold 6140 算力、突破 10.6 万 IOPS 与 2.05GB/s 混合突发存储性能，详解私有云盘（Nextcloud/Alist）与跨云冷备份架构实战。针对大盘鸡常年断货的现状，全面对比在售的 AMD EPYC 企业级纯 NVMe 高性能现货主力机型，提供客观选型决策。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>HostHatch AMD EPYC 大内存 VPS 深度实测：2GB~96GB 规格解析、NVMe 阵列吞吐与多核生产力建站选型指南</title>
+      <link>https://vps-craft.com/docs/hosthatch-amd-epyc-nvme-high-ram-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/hosthatch-amd-epyc-nvme-high-ram-benchmark</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>聚焦 HostHatch 核心王牌产品——AMD EPYC 系列企业级 NVMe VPS。依托 NodeSeek 社区博主真实跑分与实机压测数据，深度剖析 AMD EPYC 7763/Milan 架构多核算力、超 43,000 MB/s 内存吞吐与企业级 NVMe 存储 I/O。全面覆盖年付 $48 起 1C2G 至最高 16C96G 怪兽机型，专为 Docker 容器堆叠、GitLab CI/CD、高并发微服务与编译建站用户打造客观选型参考。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>2026 搬瓦工 CN2 GIA 选购迷局：$169 售罄、邀请码机型难求，为何 $299.99 尊享版是当下唯一真解？附 5 人拼车经济学</title>
+      <link>https://vps-craft.com/docs/bandwagonhost-cn2-gia-e-2gb-annual-buying-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/bandwagonhost-cn2-gia-e-2gb-annual-buying-guide</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 年 11 月搬瓦工选购局势发生剧变：入门级 $169.99/年（$20/月）CN2 GIA-E 宣告售罄；$29 MINIBOX、$37 BIGGERBOX 与 $39 荷兰版虽有库存但被“一码难求”的严苛邀请码锁定。深入剖析当前唯一可直接下单的“洛杉矶 CN2 GIA-E 2GB 年付尊享版（$299.99/年）”——3核/2G/40G SSD/2TB 流量/2.5Gbps 大带宽/15机房免费迁移。独家拆解 5 人合租拼车方案，月均仅需 ¥36 即可享受顶格三网 CN2 GIA 与日本软银。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>2026 搬瓦工断货后的终极平替：DMIT 全系选购指南与拼车经济学（附年化 $1000 内全机型速查表）</title>
+      <link>https://vps-craft.com/docs/dmit-cn2-gia-eyeball-buying-guide-bandwagonhost-alternative-2026</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/dmit-cn2-gia-eyeball-buying-guide-bandwagonhost-alternative-2026</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026 年 11 月，当搬瓦工入门款售罄、只剩 $299.99/年 尊享版，而 DMIT 旗下 $300/年 以下的限量年付神车（WEE/MALIBU/CORONA/维多利亚等）也常年断货时，普通玩家与企业该如何破局？本文为你彻底拆解“VPS 界真正天花板” DMIT 复杂的命名体系（AS3/AN4/AN5 与 Pro/EB/T1），盘点年化 $1000 美元以内的全部在售与限量机型，并独家奉上“10Gbps 大带宽 + 15天免费换 IP”的多人拼车经济学方案。</description>
+      <category>选购指南</category>
+    </item>
+    <item>
+      <title>2026 DMIT 全面科普与搬瓦工深度横评：四维命名解密、全系平替矩阵与免踩坑选型手册</title>
+      <link>https://vps-craft.com/docs/dmit-vps-comprehensive-guide-and-bandwagonhost-comparison</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/dmit-vps-comprehensive-guide-and-bandwagonhost-comparison</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>搬瓦工与 DMIT 被公认为海外高端回国优化 VPS 的“绝代双骄”。在搬瓦工入门款断货、低价款锁死邀请码的当下，DMIT 凭借其全系 AMD EPYC 算力、原厂 CN2 GIA/9929/CMIN2 顶级网络以及“15天免费换IP+超额限速不停机”机制，成为承接中高端需求的关键抓手。本文深度解密 DMIT 复杂的 AS3/AN4/AN5 与 Pro/EB/T1 命名规则，从上游供应链渊源、实测性能、路由架构到合租拼车经济学，全景对比 DMIT 与搬瓦工的真实优劣，并精选年化 300 刀内的高价值平替机型。</description>
+      <category>科普与横评</category>
+    </item>
+    <item>
+      <title>甲骨文云（Oracle Cloud）抢注脚本多长时间运行一次？免费 ARM 实例抢机频率、API 限流与防封全景指南</title>
+      <link>https://vps-craft.com/docs/oracle-cloud-free-arm-script-interval-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-cloud-free-arm-script-interval-guide</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度解答甲骨文云（Oracle Cloud Infrastructure）免费 ARM 实例（VM.Standard.A1.Flex）抢注脚本的时间间隔设置。详细剖析官方 API Rate Limit 限流机制、HTTP 429 TooManyRequests 报错触发条件与封号风控红线；结合 GitHub 主流开源脚本（hitrov/oci-arm-host-capacity 等）实测逻辑，给出稳健型（60s~120s+随机抖动）配置方案与拆分规格提速技巧。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>甲骨文邪修宝典第二篇：全网甲骨文（Oracle Cloud）高成功率注册玄学与避坑大成（附实测引文与全套方案）</title>
+      <link>https://vps-craft.com/docs/oracle-cloud-free-tier-registration-esoteric-guide-part-2</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/oracle-cloud-free-tier-registration-esoteric-guide-part-2</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>汇集全网各大技术社区（NodeSeek、HostLoc、V2EX、GitHub）关于甲骨文云（OCI）注册成功率提升的全部“邪修秘籍”与实操心得。深度拆解 ABC 报错根源、纯净家宽与指纹浏览器配置、招商/中行借记卡与实体信用卡实测、账单地址填写玄学，以及通过官方 Live Chat 客服“败部复活”拿到绿色注册通道的进阶绝活。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>六六云双 ISP 原生住宅 IP 深度实测：三网 CN2 GIA、AS9929、AS4837 与 NTT/GTT 跨境出海选型指南</title>
+      <link>https://vps-craft.com/docs/sixsixclouds-us-dual-isp-cn2gia-9929-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/sixsixclouds-us-dual-isp-cn2gia-9929-vps-benchmark</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度拆解六六云（666Clouds）核心王牌——美西洛杉矶原生 IP 与双 ISP 住宅属性 VPS。依托 NodeSeek 社区多位资深博主真实跑分、IP 欺诈度体检与回程路由抓包，客观剖析“三网 CN2 GIA（DMIT 同源精品网）”、“联通 AS9929 优化”、“AS4837 G口大带宽”以及“NTT/GTT 国际大流量落地”的线路差异。专为 TikTok 美区短视频带货、跨境电商防关联、ChatGPT/Claude AI 访问与流媒体全解用户提供全方位的实测数据与选型建议。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>丽萨主机（LisaHost）美国 9929 双 ISP 住宅 IP VPS 实测：电信/联通 9929 + 移动 CMIN2 精品网，AI 固定出口与风控成色客观分析</title>
+      <link>https://vps-craft.com/docs/lisahost-us-9929-dual-isp-residential-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/lisahost-us-9929-dual-isp-residential-vps-review</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <description>深度剖析丽萨主机（LisaHost）美国 9929 精品网双 ISP 住宅 IP VPS（精简版）。完整引用专业主机评测站 VPSKnow 采集的真实硬件、IP 纯净度检测及详细回程路由数据：拆解电信/联通 9929 与移动 CMIN2 双精品回程表现，客观评估 AS2914 原生家宽属性在 ChatGPT、TikTok、流媒体平台下的解锁率与风控表现，为 AI 出口、跨境运营与远程开发用户提供理性决策参考。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>六六云（666Clouds）美西双 ISP 原生 VPS 深度实测：CN2 GIA、AS9929 与 CU4837 三大优化线路全面横评与出海落地指南</title>
+      <link>https://vps-craft.com/docs/666clouds-us-dual-isp-native-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/666clouds-us-dual-isp-native-vps-benchmark</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度拆解六六云（666Clouds）美西洛杉矶原生 IP 双 ISP 系列云服务器：依托开源评测归档与社区多维度抓包数据，深度横评电信三网 CN2 GIA 精品网（200Mbps）、联通 AS9929 优化回程以及 1Gbps CU4837 大带宽线路。全方位还原双 ISP 家宽纯净度、TikTok Shop / 美区 PayPal / ChatGPT 风控表现与硬件底层读写限制，月付 ¥50 起提供最客观的跨境出海选型指南。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>丽萨主机（LisaHost）美国 4837 双 ISP 住宅 IP VPS 实测：300Mbps 大带宽、三网回程 AS4837、流媒体/AI 解锁与 YouTube“送中”现象深度剖析</title>
+      <link>https://vps-craft.com/docs/lisahost-us-4837-dual-isp-residential-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/lisahost-us-4837-dual-isp-residential-vps-review</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度评测丽萨主机（LisaHost）美国 4837 优化网双 ISP 住宅 IP VPS（基础版）。完整引用技术评测博主“VPS收割者（idcoffer）”的一手实测数据与截图日志：客观拆解 Intel Xeon E5-2680 v4 算力、平均 603.7 MB/s 存储读写、三网回程联通 AS4837 骨干链路、国内实测跑满 280Mbps+ 下行，以及原生双 ISP 属性在 TikTok、ChatGPT、Disney+ 与 Netflix 上的解锁成色，着重提醒 YouTube“送中”与 Claude 限制细节。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>六六云（666Clouds）全系 VPS 套餐横向对比与选型指南：美西、亚太、欧洲三大机区深度解析，双 ISP 住宅 IP 与精品线路避坑实测</title>
+      <link>https://vps-craft.com/docs/sixsixclouds-all-vps-plans-comparison-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/sixsixclouds-all-vps-plans-comparison-guide</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>全景横评六六云（666Clouds）旗下 20+ 款云服务器套餐：涵盖美西（CN2 GIA/9929/4837/NTT/GTT）、亚太（香港CMI/韩国双ISP/菲律宾/日本软银）与欧洲（英国双ISP/英国9929/德国原生）。结合 2026 年最新官方库存状态、线路类型、带宽峰值与真实业务适配场景，系统化拆解哪些是主力现货、哪些是断货特价款，手把手指导如何根据“住宅 IP 跨境运营”与“国内直连低延迟”精准选型。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>Misaka 俄罗斯莫斯科 CN2 GIA VPS 实测：90ms 欧亚陆缆直穿北京、三网极速回程与欧亚低延迟网络深度解析</title>
+      <link>https://vps-craft.com/docs/misaka-russia-moscow-cn2-gia-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/misaka-russia-moscow-cn2-gia-vps-benchmark</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度剖析技术独立博客 nyanko.im 发布的 Misaka 俄罗斯莫斯科 CN2 GIA VPS 真实评测数据。完整拆解 Intel Xeon Skylake 算力、本地 AS969 骨干直连中国电信 AS4809（CN2 GIA）的欧亚陆缆路由架构，实测北京电信回程延迟低至 91ms、上海联通 114ms、国内多地千兆满载下行。客观对比远东伯力（哈巴罗夫斯克）直连与莫斯科陆缆的差异，并提供严谨的选型避坑指南。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>KVM vs LXC vs OpenVZ 虚拟化架构区别：为什么便宜的 LXC/NAT 小鸡不能装 Docker 或换内核？</title>
+      <link>https://vps-craft.com/docs/kvm-vs-lxc-vs-openvz-vps-architectures-explained</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/kvm-vs-lxc-vs-openvz-vps-architectures-explained</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度拆解海外 VPS 与主机市场三大虚拟化技术（KVM、LXC、OpenVZ）的底层本质。用通俗易懂的生动比喻讲清楚“共享宿主机内核”与“硬件级全虚拟化”的差别；客观揭秘为什么几块钱的超便宜 LXC/NAT 小鸡安装 Docker 总是报错、换不了 BBR 内核，并从资源超售、数据隔离与生产力稳定性角度，全面解析为什么买生产力 VPS 一定要认准 KVM。</description>
+      <category>科普</category>
+    </item>
+    <item>
+      <title>RUVDS 俄罗斯莫斯科（Korolev）超低价 VPS 实测：年付 894 卢布（约 72 元）、200+ 天超长在线与 7.6MB/s 磁盘 I/O 真实成色</title>
+      <link>https://vps-craft.com/docs/ruvds-russia-korolev-budget-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/ruvds-russia-korolev-budget-vps-review</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度实机评测俄罗斯老牌主机商 RUVDS 莫斯科州科罗廖夫（Korolev）超低价特惠云服务器：年付仅需 894 俄罗斯卢布（按当前汇率折合人民币仅约 72 元，月均不足 6 元）。完整呈现连续在线超 206 天的惊人稳定性、Intel Xeon E5-2658 v4 算力底子、极度受限的 7.6 MB/s 机械大盘 I/O 真相与国内直连网络表现；手把手解析“卢布结算 vs 美元结算”汇率避坑技巧与极低成本挂机应用场景。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>VPS 到手怎么自己验机？手把手教你看懂 YABS 与融合怪测试报告的 4 个核心指标</title>
+      <link>https://vps-craft.com/docs/how-to-benchmark-vps-yabs-ecs-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/how-to-benchmark-vps-yabs-ecs-guide</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>拒绝商家虚假宣传与信息差！手把手教你使用业界公认的 YABS 与融合怪（ECS）脚本，自主给刚买到的 VPS 深度体检。系统拆解四大核心指标：如何通过 Geekbench 跑分看透 CPU 是否被严重超售；为什么建站和数据库全看 4K 随机读写（IOPS）而非虚标的 1GB/s 顺序读写；深度解析“突发带宽”与 Fair Share 公平共享机制；以及三网回程与 IP 纯净度的排坑指南。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>ColoCrossing（CC）美东水牛城 $20/年黑五神鸡实测：2核 3GB 内存、实跑 10TB 月流量不限速，超高性价比“大水管”深度长测</title>
+      <link>https://vps-craft.com/docs/colocrossing-buffalo-black-friday-3gb-vps-review</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/colocrossing-buffalo-black-friday-3gb-vps-review</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>真实深度长测海外自建数据中心巨头 ColoCrossing（CC）经典黑五神鸡——美东水牛城（Buffalo）3GB 内存年付 $20 特惠款。完整公开长达 11 个月的真实流量图表（每月稳定跑 5TB~10TB 绝不限速）、Intel Xeon E5-2680 v2 硬件算力、近 300MB/s 磁盘 I/O 以及 1Gbps 端口跑满 930Mbps 的网络实测。客观分析在售套餐体系与大流量后端选型技巧。</description>
+      <category>测评</category>
+    </item>
+    <item>
+      <title>VPS 怎么看是否开启 BBR？全场景检查方法与多种开启方案实操指南（附防脚本失效与手动内核升级方案）</title>
+      <link>https://vps-craft.com/docs/how-to-check-and-enable-bbr-vps-guide</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/how-to-check-and-enable-bbr-vps-guide</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>系统整理 Linux VPS 检验与开启 Google BBR 拥塞控制算法的全流程实操。手把手逐行拆解 uname、lsmod 与 sysctl 的真实输出含义；针对现代系统（Debian 11/12、Ubuntu 22/24）、老旧内核（CentOS 7 原生 3.10）、一键多合一加速脚本（ylx2016 / Teddysun）、进阶 XanMod BBRv3 以及脚本失效时的纯手动 ELRepo 备用升级方案，提供多维度避坑与持久化配置指引。</description>
+      <category>教程</category>
+    </item>
+    <item>
+      <title>云悠（YUNYOO）香港荃湾 HK5 CVM 实测：¥19.99/月 AMD EPYC 7K62、1.4ms 极致延迟与 10Mbps 降速异常深度复盘</title>
+      <link>https://vps-craft.com/docs/yunyoo-hong-kong-hk5-tsuen-wan-vps-benchmark</link>
+      <guid isPermaLink="true">https://vps-craft.com/docs/yunyoo-hong-kong-hk5-tsuen-wan-vps-benchmark</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>深度实测云悠（YUNYOO）香港荃湾 HK5 节点特惠云服务器（CVM - Basic）：月付仅需 ¥19.99。实测展示 AMD EPYC 7K62 处理器算力底子、345 MB/s 固态硬盘 I/O、广东沿海低至 1.4ms 的物理极速延迟；客观复盘 2026 年 11 月 13 日实测中网络带宽由标称 50Mbps 骤降至 10Mbps 的性能异常，并针对官方工单响应迟缓、长期缺货断仓等核心槽点给出客观选型建议。</description>
+      <category>测评</category>
+    </item>
+  </channel>
+</rss>

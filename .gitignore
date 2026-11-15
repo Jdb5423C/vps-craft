@@ -1,0 +1,6 @@
+# 不入库的本地物
+_quarantine_go/
+vps-craft-mirror-site.zip
+__pycache__/
+*.log
+test_size.zip

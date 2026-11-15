@@ -1,0 +1,494 @@
+{
+ "/budget/under-15": [
+  "deal/50kvm-hk-cn2-gt-1g/index.html",
+  "deal/50kvm-hk-cn2-gt-2g/index.html",
+  "deal/50kvm-hk-cn2-gt-4g/index.html",
+  "deal/aeza-msks-1/index.html",
+  "deal/aeza-msks-2/index.html"
+ ],
+ "/provider/cloudcone": [
+  "billing/monthly/index.html",
+  "billing/monthly/page/10/index.html",
+  "billing/monthly/page/11/index.html",
+  "billing/monthly/page/12/index.html",
+  "billing/monthly/page/13/index.html"
+ ],
+ "/vps-yearly-monthly-renewal-truth-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/arm-vps-ampere-guide-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-deploy-website-1panel-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-firewall-hardening": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/linode-akamai-vps-review": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/windows-vps-license-guide-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-ip-geolocation-asn": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-optimized-lines-map-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/headscale-mesh-vpn-vps-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-deploy-api-backend-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-kernel-explained": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/gpu-vps-passthrough-guide-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-backup-3-2-1-strategy": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-under-15-yearly-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vmiss-review-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-dedicated-shared-ip-seo-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/cloudcone-vs-vultr-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-bandwidth-metering-modes-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-reinstall-os-guide-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/kvm-vs-openvz-lxc-explained": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-control-panel-comparison-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/gpu-vps-pricing-compare-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-monitoring-uptime-traffic": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-native-ip-detect-guide-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-nat-vs-public-ip": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/akilecloud-review-worth-it-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vultr-vs-digitalocean-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-billing-invoicing-guide": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-wordpress-speed": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/buyvm-review-2026-worth-buying": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/nested-virtualization-vps-proxmox-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-postgres-mysql-tuning-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-test-network-iperf3-mtr": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/spartanhost-review-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-deploy-first-website-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-3-2-1-backup-guide-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-cloudflare-ddos-protection-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-cloudflare-acceleration": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/nested-virtualization-vps-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/vps-ip-reputation-unlock": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/cloud-ide-codeserver-vps-2026": [
+  "compare/arm-vps-ampere-guide-2026/index.html",
+  "compare/cloud-ide-codeserver-vps-2026/index.html",
+  "compare/vps-reinstall-os-guide-2026/index.html"
+ ],
+ "/deal/akko-sj-cn2-gia-0.5g": [
+  "billing/monthly/page/50/index.html",
+  "combo/us-west/cn2-gia/page/6/index.html",
+  "line/cn2-gia/page/10/index.html",
+  "provider/akko/index.html",
+  "region/us-west/page/54/index.html"
+ ],
+ "/docs/oracle-application-ultimate-guide": [
+  "compare/japan-vps-recommend-2026/index.html",
+  "compare/korea-vps-2026/index.html",
+  "compare/singapore-vps-2026/index.html",
+  "compare/tutorial-aws-free-tier/index.html"
+ ],
+ "/docs/oracle-arm-free-vps-guide": [
+  "compare/japan-vps-recommend-2026/index.html",
+  "compare/korea-vps-2026/index.html",
+  "compare/singapore-vps-2026/index.html",
+  "compare/tutorial-aws-free-tier/index.html"
+ ],
+ "/deal/bytevirt-la-cn2-gia-0.5g": [
+  "billing/yearly/page/45/index.html",
+  "combo/us-west/cn2-gia/page/2/index.html",
+  "line/cn2-gia/page/2/index.html",
+  "provider/bytevirt/index.html",
+  "region/us-west/page/30/index.html"
+ ],
+ "/doc-images/spartanhost/coupon-verify.png": [
+  "docs/spartanhost-vps-review/index.html"
+ ],
+ "/doc-images/digitalocean/coupon-verify.png": [
+  "docs/digitalocean-vps-review/index.html"
+ ],
+ "/news/colocrossing-2026-05-14-removes-annual-special-plans": [
+  "news/colocrossing-2026-09-17-managed-com-launch/index.html"
+ ],
+ "/deal/yunyoo-cvm-lax-prem-basic": [
+  "docs/yunyoo-vps-network-routes-explained/index.html"
+ ],
+ "/news/buyvm-2026-05-pricing-restructure": [
+  "news/buyvm-2026-10-monero-payment/index.html"
+ ],
+ "/news/cloudcone-2026-07-28-cc-turns-9-sale": [
+  "news/cloudcone-2026-08-12-ipv4-renumbering-2026/index.html"
+ ],
+ "/vps-for-saas-mvp-2026": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-for-api-relay-chatgpt": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-value-per-dollar-metrics": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-refund-policy-compare-2026": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-hidden-costs-2026": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-ip-blacklist-recovery-2026": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-ipv4-shortage-price": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-cost-performance-formula-2026": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-price-history-tracking": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/vps-ipv4-lease-market-price": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/colocrossing-deep-dive-2026": [
+  "compare/vps-ipv4-lease-market-price/index.html"
+ ],
+ "/news/bandwagon-2026-05-line-suspension": [
+  "news/bandwagon-2026-08-hkg-ebv2-terminate/index.html"
+ ],
+ "/doc-images/massivegrid/coupon-verify.png": [
+  "docs/massivegrid-vps-review/index.html"
+ ],
+ "/vps-restock-alert-telegram-2026": [
+  "compare/vps-swap-oom-memory-guide/index.html"
+ ],
+ "/ddr4-vs-ddr5-vps-2026": [
+  "compare/vps-swap-oom-memory-guide/index.html"
+ ],
+ "/high-ram-vps-use-cases-2026": [
+  "compare/vps-swap-oom-memory-guide/index.html"
+ ],
+ "/vps-cost-per-gb-ram-method-2026": [
+  "compare/vps-swap-oom-memory-guide/index.html"
+ ],
+ "/vps-swap-oom-memory-guide": [
+  "compare/vps-swap-oom-memory-guide/index.html"
+ ],
+ "/vps-ram-types-ddr4-ddr5-ecc-2026": [
+  "compare/vps-swap-oom-memory-guide/index.html"
+ ],
+ "/doc-images/vps-test/9.jpg": [
+  "docs/vps-routing-and-benchmark-guide/index.html"
+ ],
+ "/coupons/page/33": [
+  "coupons/index.html"
+ ],
+ "/coupons/page/2": [
+  "coupons/index.html"
+ ],
+ "/coupons/page/3": [
+  "coupons/index.html"
+ ],
+ "https://vps-craft.com/provider/cloudcone": [
+  "docs/oracle-cloud-registration-unconventional-guide/index.html"
+ ],
+ "/deal/alexhost-kvm-1c1.5g": [
+  "billing/monthly/page/5/index.html",
+  "budget/monthly-cheap/page/5/index.html",
+  "line/bgp/page/31/index.html",
+  "provider/alexhost/index.html",
+  "region/europe/page/2/index.html"
+ ],
+ "/providers/yunyoo": [
+  "docs/yunyoo-hong-kong-hk4-cmi-10099-cn2-vps-benchmark/index.html",
+  "docs/yunyoo-us4-dual-isp-4837-vps-benchmark/index.html"
+ ],
+ "/provider/cloudcone/news/page/3": [
+  "provider/cloudcone/news/index.html"
+ ],
+ "/provider/cloudcone/news/page/2": [
+  "provider/cloudcone/news/index.html"
+ ],
+ "/provider/cloudcone/news/page/4": [
+  "provider/cloudcone/news/index.html"
+ ],
+ "/doc-images/gigsgigscloud/coupon-verify.png": [
+  "docs/gigsgigscloud-vps-review/index.html"
+ ],
+ "/docs/webhorizon-nat-vps-review": [
+  "docs/gigsgigscloud-vps-review/index.html"
+ ],
+ "/doc-images/aeza/coupon-verify.png": [
+  "docs/aeza-vps-review/index.html"
+ ],
+ "/doc-images/oulucloud/coupon-verify.png": [
+  "docs/oulucloud-vps-review/index.html"
+ ],
+ "/doc-images/akilecloud/coupon-verify.png": [
+  "docs/akilecloud-vps-review/index.html"
+ ],
+ "/vps-bgp-asn-routing-basics": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/vps-nginx-reverse-proxy-tutorial": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/vps-load-balancer-haproxy": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/vps-dns-nameserver-setup": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/vps-ptr-rdns-record": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/mptcp-vps-bandwidth-aggregation-2026": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/how-dns-resolves-domain-vps": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/vps-reverse-proxy-nginx-caddy": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/domain-dns-vps-setup-guide-2026": [
+  "compare/how-dns-resolves-domain-vps/index.html",
+  "compare/mptcp-vps-bandwidth-aggregation-2026/index.html"
+ ],
+ "/news/vultr-2026-07-03-deciix-ny-200g": [
+  "news/vultr-2026-08-01-stop-billing-warning/index.html"
+ ],
+ "file:///Users/sunpeng/project/project-try/vps-craft/src/data/speed-test/racknerd.json": [
+  "docs/racknerd-vps-review-full-range/index.html"
+ ],
+ "/zh/blog/minecraft-server-vps-2026": [
+  "compare/vps-game-server-setup/index.html"
+ ],
+ "/doc-images/webhorizon/coupon-verify.png": [
+  "docs/webhorizon-vps-review/index.html"
+ ],
+ "/doc-images/hengtianyun/coupon-verify.png": [
+  "docs/hengtianyun-vps-review/index.html"
+ ],
+ "/provider/bandwagon/news/page/3": [
+  "provider/bandwagon/news/index.html"
+ ],
+ "/provider/bandwagon/news/page/2": [
+  "provider/bandwagon/news/index.html"
+ ],
+ "/provider/dmit/news/page/7": [
+  "provider/dmit/news/index.html"
+ ],
+ "/provider/dmit/news/page/2": [
+  "provider/dmit/news/index.html"
+ ],
+ "/provider/dmit/news/page/3": [
+  "provider/dmit/news/index.html"
+ ],
+ "/providers/vmiss": [
+  "docs/vmiss-japan-vps-benchmark-test-report/index.html",
+  "docs/vmiss-korea-seoul-vps-benchmark-test-report/index.html",
+  "docs/vmiss-singapore-vps-benchmark-and-alternatives/index.html"
+ ],
+ "/doc-images/hostkvm/coupon-verify.png": [
+  "docs/hostkvm-vps-review/index.html"
+ ],
+ "/provider/vultr/news/page/3": [
+  "provider/vultr/news/index.html"
+ ],
+ "/provider/vultr/news/page/6": [
+  "provider/vultr/news/index.html"
+ ],
+ "/provider/vultr/news/page/2": [
+  "provider/vultr/news/index.html"
+ ],
+ "/provider/colocrossing/news/page/3": [
+  "provider/colocrossing/news/index.html"
+ ],
+ "/provider/colocrossing/news/page/2": [
+  "provider/colocrossing/news/index.html"
+ ],
+ "/doc-images/timeweb/coupon-verify.png": [
+  "docs/timeweb-vps-review/index.html"
+ ],
+ "/doc-images/greencloudvps/coupon-verify.png": [
+  "docs/greencloudvps-vps-review/index.html"
+ ],
+ "/doc-images/netcup/coupon-verify.png": [
+  "docs/netcup-vps-review/index.html"
+ ],
+ "/news/dmit-2026-07-29-cogent-ipv4-rental-fee": [
+  "news/dmit-2026-08-13-restock-waves/index.html"
+ ],
+ "/news/page/3": [
+  "news/index.html"
+ ],
+ "/news/page/21": [
+  "news/index.html"
+ ],
+ "/news/page/2": [
+  "news/index.html"
+ ],
+ "/providers/dmit": [
+  "docs/vmiss-singapore-vps-benchmark-and-alternatives/index.html"
+ ],
+ "/providers/lisahost": [
+  "docs/vmiss-singapore-vps-benchmark-and-alternatives/index.html"
+ ],
+ "/providers/akilecloud": [
+  "docs/vmiss-singapore-vps-benchmark-and-alternatives/index.html"
+ ],
+ "/providers/digitalocean": [
+  "docs/vmiss-singapore-vps-benchmark-and-alternatives/index.html"
+ ]
+}
