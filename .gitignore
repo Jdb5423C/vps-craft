@@ -4,3 +4,11 @@ vps-craft-mirror-site.zip
 __pycache__/
 *.log
 test_size.zip
+
+# 本地临时物
+*_log.txt
+askpass.py
+credstore.bat
+tmp_*.py
+deal_chunk*.txt
+vps-craft-mirror-site.zip
